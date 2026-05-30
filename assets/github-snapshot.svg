@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190" role="img" aria-labelledby="title desc">
+  <title id="title">TheStreamCode GitHub snapshot</title>
+  <desc id="desc">Static profile card for Michael Gasperini and TheStreamCode public GitHub work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#10243F"/>
+      <stop offset="100%" stop-color="#123A2A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#3FB950"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect width="480" height="190" rx="18" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="1" y="1" width="478" height="188" rx="17" fill="none" stroke="#30363D"/>
+  <rect x="24" y="24" width="64" height="64" rx="16" fill="#161B22" stroke="#30363D"/>
+  <text x="56" y="64" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#58A6FF">TS</text>
+  <text x="108" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#8B949E">GitHub profile</text>
+  <text x="108" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#F0F6FC">TheStreamCode</text>
+  <text x="108" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#C9D1D9">Michael Gasperini / Mikesoft / Italy</text>
+  <rect x="24" y="118" width="432" height="2" rx="1" fill="url(#line)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="42" y="150" font-size="24" font-weight="700" fill="#F0F6FC">12</text>
+    <text x="42" y="170" font-size="12" fill="#8B949E">public repos</text>
+    <text x="176" y="150" font-size="24" font-weight="700" fill="#F0F6FC">2024</text>
+    <text x="176" y="170" font-size="12" fill="#8B949E">profile created</text>
+    <text x="326" y="150" font-size="24" font-weight="700" fill="#F0F6FC">Client + OSS</text>
+    <text x="326" y="170" font-size="12" fill="#8B949E">web, apps, tools</text>
+  </g>
+</svg>

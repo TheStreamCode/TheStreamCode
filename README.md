@@ -164,8 +164,8 @@ I publish practical tools when I see repeated friction in my own workflow or cli
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9" alt="TheStreamCode GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="TheStreamCode top languages" height="170" />
+  <img src="./assets/github-snapshot.svg" alt="TheStreamCode GitHub snapshot" height="190" />
+  <img src="./assets/language-focus.svg" alt="TheStreamCode language focus" height="190" />
 </p>
 
 ---
