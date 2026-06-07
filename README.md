@@ -17,6 +17,7 @@
   <a href="https://www.youtube.com/@mikesoft_webdesign"><img src="https://img.shields.io/badge/YouTube-Mikesoft-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/mikesoft-web-design"><img src="https://img.shields.io/badge/LinkedIn-Michael%20Gasperini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/TheStreamCode"><img src="https://img.shields.io/badge/GitHub-TheStreamCode-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/sponsors/TheStreamCode"><img src="https://img.shields.io/badge/Sponsor-Open%20Source-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor open source work" /></a>
 </p>
 
 <h2 align="center">I build fast, maintainable digital products for businesses.</h2>
