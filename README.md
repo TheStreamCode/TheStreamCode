@@ -160,6 +160,7 @@ I maintain practical open-source tools around developer workflows, VS Code exten
 
 - Clear scope before implementation.
 - Direct communication from strategy to launch.
+- Available for full-remote collaborations with companies that need practical software, developer tools, internal tools, web apps, mobile apps, WordPress/CMS work, or AI-assisted workflows.
 - Code, domain, content, and direction stay owned by the client.
 - Performance, SEO, privacy, and accessibility foundations are part of the build.
 - Open-source habits: documentation, versioning, issue discipline, testing, and maintainable handoff.
