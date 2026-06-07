@@ -132,6 +132,10 @@ I publish practical tools when I see repeated friction in my own workflow or cli
 
 ---
 
+## Support Open Source
+
+I maintain practical open-source tools around developer workflows, VS Code extensions, WordPress operations, local-first apps, and AI-assisted work. If these projects save you time or help your work, you can support continued maintenance through [GitHub Sponsors](https://github.com/sponsors/TheStreamCode).
+
 ## Tech Stack
 
 <p>
