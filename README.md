@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=I+build+small%2C+focused+open-source+tools;Privacy-aware+by+default;Open+source+first+%E2%80%94+client+work+through+Mikesoft" alt="I build small, focused open-source tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Building+small%2C+focused+open-source+tools;Privacy-aware+by+default;Open+source%2C+with+client+work+through+Mikesoft" alt="Building small, focused open-source tools" />
 </p>
 
 <p align="center">
@@ -25,19 +25,20 @@
 </p>
 
 <p align="center">
-  I am Michael Gasperini, a developer from Italy. I turn everyday problems into open-source software:
-  fiscal tools for freelancers, a local-first password manager, WordPress and Discord utilities,
-  VS Code extensions, and agent workflows. Small, focused, and privacy-aware by default.
+  I am Michael Gasperini, a developer based in Italy. I build open-source software that turns everyday
+  problems into practical tools: fiscal utilities for freelancers, a local-first password manager,
+  WordPress and Discord utilities, VS Code extensions, and agent workflows &mdash; small, focused,
+  and privacy-aware by default.
 </p>
 
 <p align="center">
   I also run <a href="https://mikesoft.it"><strong>Mikesoft</strong></a>, my web studio &mdash; websites, apps, e-commerce, and SEO for companies and founders.
-  Need client work? <a href="https://mikesoft.it">mikesoft.it</a>
+  For client work, see <a href="https://mikesoft.it">mikesoft.it</a>.
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -100,9 +101,9 @@
 
 ---
 
-## 🛠️ Open Source &amp; Developer Tools
+## Open Source &amp; Developer Tools
 
-I publish practical tools when I see repeated friction in my own workflow or client work. Most of them are small, focused, privacy-aware, and built to solve a specific problem well.
+I publish practical tools when I encounter repeated friction in my own workflow or client work. They are small, focused, privacy-aware, and built to solve a specific problem well.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -112,11 +113,11 @@ I publish practical tools when I see repeated friction in my own workflow or cli
 
 ---
 
-## 💜 Support Open Source
+## Support Open Source
 
-I maintain these tools around developer workflows, VS Code extensions, WordPress operations, local-first apps, and AI-assisted work. If they save you time or help your work, you can support continued maintenance through [GitHub Sponsors](https://github.com/sponsors/TheStreamCode). If you use them for free, that is completely fine too &mdash; no obligation.
+I maintain a range of open-source tools spanning developer workflows, VS Code extensions, WordPress operations, local-first apps, and AI-assisted work. If they save you time or support your work, you can help fund their continued maintenance through [GitHub Sponsors](https://github.com/sponsors/TheStreamCode). Using them for free is perfectly fine &mdash; there is no obligation.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -136,7 +137,7 @@ I maintain these tools around developer workflows, VS Code extensions, WordPress
 
 ---
 
-## 📊 GitHub Snapshot
+## GitHub Snapshot
 
 <p align="center">
   <img src="./assets/github-snapshot.svg" alt="TheStreamCode GitHub snapshot" height="190" />
@@ -146,7 +147,7 @@ I maintain these tools around developer workflows, VS Code extensions, WordPress
 ---
 
 <p align="center">
-  Like my tools? <a href="https://github.com/sponsors/TheStreamCode">Sponsor the open-source work</a>. Need a website, app, or e-commerce project? <a href="https://mikesoft.it/en/contact/">Talk to Mikesoft</a>.
+  If my tools are useful to you, consider <a href="https://github.com/sponsors/TheStreamCode">sponsoring the open-source work</a>. For a website, app, or e-commerce project, <a href="https://mikesoft.it/en/contact/">get in touch with Mikesoft</a>.
 </p>
 
 <p align="center">
