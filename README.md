@@ -43,12 +43,12 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://easypiva.vercel.app">EasyPIVA</a></h3>
-      <p>Open-source fiscal planning web app for Italian freelancers and small businesses, with local browser calculations and PDF export.</p>
+      <h3><a href="https://marketplace.visualstudio.com/items?itemName=mikesoft.vscode-super-cli">Super CLI</a></h3>
+      <p>One VS Code extension to launch any AI coding-agent CLI &mdash; Claude Code, Codex, Copilot, Cursor, Grok, Kilo, and more &mdash; from a single sidebar and side terminal. Cross-platform, MIT, no telemetry.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Open%20VSX-A60EE5?style=flat-square&logo=eclipseide&logoColor=white" alt="Open VSX" />
       </p>
     </td>
     <td width="33%" valign="top">
