@@ -1,90 +1,136 @@
 <!-- GitHub profile README for TheStreamCode — Michael Gasperini / Mikesoft -->
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero-dark.svg" width="100%" alt="Michael Gasperini — Open-source developer and founder of Mikesoft" />
-</picture>
+<h1 align="center">Hi, I'm Michael Gasperini 👋</h1>
 
-&nbsp;
-
-**[Sponsor ↗](https://github.com/sponsors/TheStreamCode)** &nbsp;·&nbsp; [Website ↗](https://mikesoft.it) &nbsp;·&nbsp; [Email ↗](mailto:info@mikesoft.it) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/mikesoft-web-design) &nbsp;·&nbsp; [YouTube ↗](https://www.youtube.com/@mikesoft_webdesign)
-
-I'm a developer from Italy. I build open-source software that turns everyday problems into practical tools, and through **[Mikesoft](https://mikesoft.it)** I design websites, e-commerce, and apps for companies and founders — with a focus on clarity, speed, and real ownership.
-
-<img src="./assets/rule.svg" width="100%" alt="" />
-
-## Selected Work
-
-### 01 · [Super CLI](https://marketplace.visualstudio.com/items?itemName=mikesoft.vscode-super-cli)
-One VS Code extension to launch any AI coding-agent CLI — Claude Code, Codex, Copilot, Cursor, Grok, Kilo, and more — from a single sidebar. Cross-platform, MIT, no telemetry.<br/>
-<sub>TypeScript · VS Code · Open VSX</sub>
-
-### 02 · [Keysoft](https://play.google.com/store/apps/details?id=it.mikesoft.keysoft)
-Offline-first Android password manager with a locally encrypted vault, biometric unlock, and no backend dependency for vault storage.<br/>
-<sub>React Native · Expo · TypeScript</sub>
-
-### 03 · [Discord Management MCP](https://github.com/TheStreamCode/discord-management-mcp)
-Safe-by-default MCP server for Discord management — JSON backups, restore planning, guarded mutations, and local stdio transport.<br/>
-<sub>TypeScript · Node.js · MCP</sub>
-
-### 04 · [Mikesoft TeamVault](https://wordpress.org/plugins/mikesoft-teamvault/)
-WordPress plugin for private document management inside the admin — protected storage, access control, previews, ZIP export, and activity logs.<br/>
-<sub>PHP · WordPress</sub>
-
-### 05 · [Chutes Usage Monitor](https://marketplace.visualstudio.com/items?itemName=mikesoft.chutes-usage-vscode)
-VS Code extension to monitor Chutes usage, rolling limits, quotas, and plan status directly from the editor.<br/>
-<sub>TypeScript · VS Code</sub>
-
-### 06 · [Agentic R&amp;D Skill](https://github.com/TheStreamCode/agentic-rd-skill)
-Structured Agent Skill for agent-assisted research, product, business, and technical planning with parallel subagent teams.<br/>
-<sub>JavaScript · Agent Skills</sub>
-
-<img src="./assets/rule.svg" width="100%" alt="" />
-
-## Open-Source Tools
-
-Smaller utilities I publish when I hit repeated friction in my own workflow or client work.
-
-- **AI CLI Launchers** — a family of VS Code extensions that open AI coding CLIs in a side terminal: [Codex](https://github.com/TheStreamCode/codex-cli-launcher) · [Copilot](https://github.com/TheStreamCode/github-copilot-cli-launcher) · [Kilo](https://github.com/TheStreamCode/vscode-kilo-cli-launcher) · [Antigravity](https://github.com/TheStreamCode/antigravity-cli-launcher) · [Grok Build](https://github.com/TheStreamCode/grok-build-launcher)
-- **[Copilot BYOK Switcher](https://github.com/TheStreamCode/copilot-byok-switcher)** — cross-platform launcher for GitHub Copilot CLI custom model providers (BYOK), with interactive selection.
-
-<img src="./assets/rule.svg" width="100%" alt="" />
-
-## Stack
-
-<p>
-  <b>Languages</b> &nbsp; TypeScript · JavaScript · PHP<br/>
-  <b>Web</b> &nbsp; Astro · Next.js · WordPress · Shopify · SCSS<br/>
-  <b>Mobile</b> &nbsp; React Native · Expo<br/>
-  <b>Infra &amp; tooling</b> &nbsp; Vercel · Cloudflare · Vitest · Playwright
+<p align="center">
+  <b>Open-source developer · Founder of <a href="https://mikesoft.it">Mikesoft</a> · Italy</b>
 </p>
 
-<img src="./assets/rule.svg" width="100%" alt="" />
+<p align="center">
+  I build small, focused, privacy-aware developer tools — and design web products through my studio.
+</p>
 
-## GitHub
+<p align="center">
+  <a href="https://mikesoft.it"><img src="https://img.shields.io/badge/Website-mikesoft.it-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/sponsors/TheStreamCode"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
+  <a href="https://www.linkedin.com/in/mikesoft-web-design"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@mikesoft_webdesign"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:info@mikesoft.it"><img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 🧭 About
+
+- 🔭 &nbsp;I build **open-source developer tools** — VS Code extensions, an offline password manager, MCP servers, and agent workflows.
+- 🏢 &nbsp;Founder of **[Mikesoft](https://mikesoft.it)**, a web studio — websites, e-commerce, apps & digital tools, with a focus on clarity, speed, and real ownership.
+- 🌍 &nbsp;Based in **Italy** · 10+ years building for the web · open to remote work.
+- 🔐 &nbsp;**Privacy-aware and local-first** by default.
+- 💬 &nbsp;Ask me about **TypeScript, VS Code extensions, WordPress, React Native, and AI tooling**.
+
+---
+
+### 🛠️ Tech Stack
 
 <p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  &nbsp;
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+</p>
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+  &nbsp;
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://marketplace.visualstudio.com/items?itemName=mikesoft.vscode-super-cli">Super CLI</a></h4>
+      <p>Launch any AI coding-agent CLI — Claude Code, Codex, Copilot, Cursor, Grok, Kilo — from one VS Code sidebar. Cross-platform, MIT, no telemetry.</p>
+      <sub>TypeScript · VS Code · Open VSX</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://play.google.com/store/apps/details?id=it.mikesoft.keysoft">Keysoft</a></h4>
+      <p>Offline-first Android password manager with a locally encrypted vault, biometric unlock, and no backend dependency.</p>
+      <sub>React Native · Expo · TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/TheStreamCode/discord-management-mcp">Discord Management MCP</a></h4>
+      <p>Safe-by-default MCP server for Discord — JSON backups, restore planning, and guarded mutations over local stdio.</p>
+      <sub>TypeScript · Node.js · MCP</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://wordpress.org/plugins/mikesoft-teamvault/">Mikesoft TeamVault</a></h4>
+      <p>WordPress plugin for private document management — protected storage, access control, previews, ZIP export, and activity logs.</p>
+      <sub>PHP · WordPress</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://marketplace.visualstudio.com/items?itemName=mikesoft.chutes-usage-vscode">Chutes Usage Monitor</a></h4>
+      <p>VS Code extension to track Chutes usage, rolling limits, quotas, and plan status directly from the editor.</p>
+      <sub>TypeScript · VS Code</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/TheStreamCode/agentic-rd-skill">Agentic R&amp;D Skill</a></h4>
+      <p>Structured Agent Skill for research, product, and technical planning with parallel subagent teams.</p>
+      <sub>JavaScript · Agent Skills</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Also: the <a href="https://github.com/TheStreamCode/codex-cli-launcher">AI CLI Launcher family</a> (Codex · Copilot · Kilo · Antigravity · Grok) and <a href="https://github.com/TheStreamCode/copilot-byok-switcher">Copilot BYOK Switcher</a>.</sub>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=22C55E&icon_color=174EA6&text_color=1F2328" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=174EA6&text_color=C9D1D9" alt="Michael Gasperini's GitHub stats" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=1F2328&icon_color=2563EB&text_color=1F2328" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Michael Gasperini's GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=22C55E&text_color=1F2328" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9" alt="Most used languages" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=1F2328&text_color=1F2328" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TheStreamCode&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakNum=1F2328&currStreakLabel=2563EB&sideNums=1F2328&sideLabels=57606A&dates=8B949E&stroke=2563EB" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheStreamCode&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&currStreakLabel=58A6FF&sideNums=F0F6FC&sideLabels=C9D1D9&dates=8B949E&stroke=58A6FF" alt="GitHub streak" />
   </picture>
 </p>
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TheStreamCode&hide_border=true&background=FFFFFF&ring=22C55E&fire=EA4AAA&currStreakNum=1F2328&currStreakLabel=22C55E&sideNums=1F2328&sideLabels=586069&dates=57606A&stroke=174EA6" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheStreamCode&hide_border=true&background=0D1117&ring=22C55E&fire=EA4AAA&currStreakNum=F0F6FC&currStreakLabel=22C55E&sideNums=F0F6FC&sideLabels=C9D1D9&dates=8B949E&stroke=174EA6" alt="GitHub contribution streak" />
-  </picture>
-</p>
+---
 
-<img src="./assets/rule.svg" width="100%" alt="" />
+### 🤝 Let's Connect
 
-## Support
+If my open-source tools save you time, you can support their maintenance through **[GitHub Sponsors](https://github.com/sponsors/TheStreamCode)** — using them for free is always welcome. For a website, app, or e-commerce project, **[get in touch with Mikesoft](https://mikesoft.it/en/contact/)**.
 
-I maintain these tools in the open. If they save you time, you can help fund their upkeep through **[GitHub Sponsors](https://github.com/sponsors/TheStreamCode)** — using them for free is always fine, with no obligation. For a website, app, or e-commerce project, [get in touch with Mikesoft](https://mikesoft.it/en/contact/).
-
-<sub>[mikesoft.it](https://mikesoft.it) · [info@mikesoft.it](mailto:info@mikesoft.it) · [LinkedIn](https://www.linkedin.com/in/mikesoft-web-design) · [Instagram](https://www.instagram.com/mikesoft.it) · [YouTube](https://www.youtube.com/@mikesoft_webdesign) · [GitHub](https://github.com/TheStreamCode)</sub>
+<sub>
+  <a href="https://mikesoft.it">Website</a> ·
+  <a href="mailto:info@mikesoft.it">Email</a> ·
+  <a href="https://www.linkedin.com/in/mikesoft-web-design">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@mikesoft_webdesign">YouTube</a> ·
+  <a href="https://www.instagram.com/mikesoft.it">Instagram</a>
+</sub>
