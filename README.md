@@ -152,12 +152,12 @@ I publish practical tools when I hit repeated friction in my own workflow or cli
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=174EA6&text_color=C9D1D9" alt="Michael Gasperini's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=174EA6&text_color=C9D1D9" alt="Michael Gasperini's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheStreamCode&hide_border=true&background=0D1117&ring=22C55E&fire=EA4AAA&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E&stroke=174EA6" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheStreamCode&hide_border=true&background=0D1117&ring=22C55E&fire=EA4AAA&currStreakNum=F0F6FC&currStreakLabel=22C55E&sideNums=F0F6FC&sideLabels=C9D1D9&dates=8B949E&stroke=174EA6" alt="GitHub streak" />
 </p>
 
 ---
