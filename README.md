@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Michael Gasperini 👋</h1>
 
 <p align="center">
-  <b>Open-source developer · Founder of <a href="https://mikesoft.it">Mikesoft</a> · Italy</b>
+  <b>Open-source developer · Founder of <a href="https://mikesoft.it">Mikesoft</a></b>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 - 🔭 &nbsp;I build **open-source developer tools** — VS Code extensions, an offline password manager, MCP servers, and agent workflows.
 - 🏢 &nbsp;Founder of **[Mikesoft](https://mikesoft.it)**, a web studio — websites, e-commerce, apps & digital tools, with a focus on clarity, speed, and real ownership.
-- 🌍 &nbsp;Based in **Italy** · 10+ years building for the web · open to remote work.
+- 🌍 &nbsp;**Italy-based, working with clients and teams worldwide** · 10+ years building for the web.
 - 🔐 &nbsp;**Privacy-aware and local-first** by default.
 - 💬 &nbsp;Ask me about **TypeScript, VS Code extensions, WordPress, React Native, and AI tooling**.
 
@@ -102,30 +102,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=1F2328&icon_color=2563EB&text_color=1F2328" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Michael Gasperini's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=1F2328&text_color=1F2328" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TheStreamCode&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakNum=1F2328&currStreakLabel=2563EB&sideNums=1F2328&sideLabels=57606A&dates=8B949E&stroke=2563EB" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheStreamCode&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&currStreakLabel=58A6FF&sideNums=F0F6FC&sideLabels=C9D1D9&dates=8B949E&stroke=58A6FF" alt="GitHub streak" />
-  </picture>
-</p>
-
----
-
 ### 🤝 Let's Connect
 
-If my open-source tools save you time, you can support their maintenance through **[GitHub Sponsors](https://github.com/sponsors/TheStreamCode)** — using them for free is always welcome. For a website, app, or e-commerce project, **[get in touch with Mikesoft](https://mikesoft.it/en/contact/)**.
+**Need a website, app, or e-commerce project?** Let's build it — **[get in touch with Mikesoft](https://mikesoft.it/en/contact/)**. And if my open-source tools save you time, you can support their maintenance through **[GitHub Sponsors](https://github.com/sponsors/TheStreamCode)** — using them for free is always welcome.
 
 <sub>
   <a href="https://mikesoft.it">Website</a> ·
