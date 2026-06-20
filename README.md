@@ -102,9 +102,24 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=1F2328&icon_color=2563EB&text_color=1F2328" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Michael Gasperini's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=1F2328&text_color=1F2328" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
+  </picture>
+</p>
+
+---
+
 ### 🤝 Let's Connect
 
-**Need a website, app, or e-commerce project?** Let's build it — **[get in touch with Mikesoft](https://mikesoft.it/en/contact/)**. And if my open-source tools save you time, you can support their maintenance through **[GitHub Sponsors](https://github.com/sponsors/TheStreamCode)** — using them for free is always welcome.
+If my open-source tools save you time, you can support their maintenance through **[GitHub Sponsors](https://github.com/sponsors/TheStreamCode)** — using them for free is always welcome. For a website, app, or e-commerce project, **[get in touch with Mikesoft](https://mikesoft.it/en/contact/)**.
 
 <sub>
   <a href="https://mikesoft.it">Website</a> ·
