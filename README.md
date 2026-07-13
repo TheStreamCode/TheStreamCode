@@ -128,3 +128,5 @@ If my open-source tools save you time, you can support their maintenance through
   <a href="https://www.youtube.com/@mikesoft_webdesign">YouTube</a> ·
   <a href="https://www.instagram.com/mikesoft.it">Instagram</a>
 </sub>
+
+This profile repository does not grant a software license.
