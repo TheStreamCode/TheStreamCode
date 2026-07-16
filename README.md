@@ -24,7 +24,7 @@
 
 - 🔭 &nbsp;I build **open-source developer tools** — VS Code extensions, an offline password manager, MCP servers, and agent workflows.
 - 🏢 &nbsp;Founder of **[Mikesoft](https://mikesoft.it)**, a web studio — websites, e-commerce, apps & digital tools, with a focus on clarity, speed, and real ownership.
-- 🌍 &nbsp;**Italy-based, working with clients and teams worldwide** · 10+ years building for the web.
+- 🌍 &nbsp;**EU-based, working with clients and teams worldwide** · 10+ years building for the web.
 - 🔐 &nbsp;**Privacy-aware and local-first** by default.
 - 💬 &nbsp;Ask me about **TypeScript, VS Code extensions, WordPress, React Native, and AI tooling**.
 
