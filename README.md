@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Michael Gasperini 👋</h1>
 
 <p align="center">
-  <b>Open-source developer · Founder of <a href="https://mikesoft.it">Mikesoft</a></b>
+  <b>Web developer · Founder of <a href="https://mikesoft.it">Mikesoft</a></b>
 </p>
 
 <p align="center">
