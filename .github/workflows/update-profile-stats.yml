@@ -36,16 +36,32 @@ jobs:
           test -s profile/languages-light.svg
           test -s profile/languages-dark.svg
 
-      - name: Commit refreshed cards
+      - name: Publish refreshed cards
         shell: bash
         run: |
-          if git diff --quiet -- profile; then
+          publish_directory="${RUNNER_TEMP}/profile-stats"
+
+          if git fetch --depth=1 origin profile-stats; then
+            git worktree add --detach "${publish_directory}" FETCH_HEAD
+          else
+            git worktree add --detach "${publish_directory}" HEAD
+            cd "${publish_directory}"
+            git switch --orphan profile-stats
+            git rm -rf .
+          fi
+
+          mkdir -p "${publish_directory}/profile"
+          cp "${GITHUB_WORKSPACE}"/profile/*.svg "${publish_directory}/profile/"
+          cd "${publish_directory}"
+
+          git add profile/*.svg
+
+          if git diff --cached --quiet; then
             echo "Profile statistics are already current."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
           git commit -m "chore: refresh profile stats"
-          git push
+          git push origin HEAD:profile-stats

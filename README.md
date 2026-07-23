@@ -156,17 +156,17 @@ There is never an obligation to sponsor. If my work creates value for you or you
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./profile/activity-light.svg" />
-    <img src="./profile/activity-light.svg" width="820" alt="TheStreamCode GitHub activity statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" />
+    <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" width="820" alt="TheStreamCode GitHub activity statistics" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/languages-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./profile/languages-light.svg" />
-    <img src="./profile/languages-light.svg" width="820" alt="Languages used across TheStreamCode repositories" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-light.svg" />
+    <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-light.svg" width="820" alt="Languages used across TheStreamCode repositories" />
   </picture>
 </p>
 
