@@ -3,8 +3,8 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/TheStreamCode">
-    <img src="https://github.com/TheStreamCode.png?size=160" width="120" height="120" alt="Michael Gasperini" />
+  <a href="https://mikesoft.it">
+    <img src="./assets/mikesoft-logo.png" width="132" height="132" alt="Mikesoft logo" />
   </a>
 </p>
 
@@ -25,6 +25,7 @@
 <p align="center">
   <a href="https://mikesoft.it"><img src="https://img.shields.io/badge/Portfolio-Mikesoft-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mikesoft portfolio" /></a>
   <a href="https://www.linkedin.com/in/mikesoft-web-design"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://x.com/mikesoft_it"><img src="https://img.shields.io/badge/X-Follow-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="Follow Mikesoft on X" /></a>
   <a href="mailto:info@mikesoft.it"><img src="https://img.shields.io/badge/Email-Let's%20talk-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Michael Gasperini" /></a>
   <a href="https://github.com/sponsors/TheStreamCode"><img src="https://img.shields.io/badge/Sponsor-Open%20Source-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor TheStreamCode on GitHub" /></a>
 </p>
@@ -170,13 +171,14 @@ There is never an obligation to sponsor. If my work creates value for you or you
 
 <p align="center"><sub>Cards powered by the maintained <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a> project.</sub></p>
 
-<sub>Language cards describe repository code, not skill level. The cards are generated inside this repository to avoid depending on a public stats endpoint at page-load time.</sub>
+<sub>Language cards describe repository code, not skill level. Statistics are loaded from the maintained GitHub Stats Extended service.</sub>
 
 ## Contact
 
 - **Portfolio and client work:** [mikesoft.it](https://mikesoft.it)
 - **Email:** [info@mikesoft.it](mailto:info@mikesoft.it)
 - **LinkedIn:** [Michael Gasperini](https://www.linkedin.com/in/mikesoft-web-design)
+- **X:** [@mikesoft_it](https://x.com/mikesoft_it)
 - **GitHub Sponsors:** [Support open-source work](https://github.com/sponsors/TheStreamCode)
 - **YouTube:** [Mikesoft](https://www.youtube.com/@mikesoft_webdesign)
 - **Instagram:** [@mikesoft.it](https://www.instagram.com/mikesoft.it)
