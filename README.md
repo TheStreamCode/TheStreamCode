@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://mikesoft.it">
-    <img src="./assets/mikesoft-logo-animated.svg" width="132" height="132" alt="Animated Mikesoft logo" />
+    <img src="./assets/mikesoft-logo-animated.webp" width="132" height="132" alt="Animated Mikesoft logo" />
   </a>
 </p>
 
