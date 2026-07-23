@@ -47,7 +47,6 @@ jobs:
             git worktree add --detach "${publish_directory}" HEAD
             cd "${publish_directory}"
             git switch --orphan profile-stats
-            git rm -rf .
           fi
 
           mkdir -p "${publish_directory}/profile"
