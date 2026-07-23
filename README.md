@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://mikesoft.it">
-    <img src="./assets/mikesoft-logo-glow.webp" width="132" height="132" alt="Mikesoft logo with a subtle animated glow" />
+    <img src="./assets/mikesoft-logo-intro.webp" width="132" height="132" alt="Mikesoft logo with a one-time entrance animation" />
   </a>
 </p>
 
