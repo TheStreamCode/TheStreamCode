@@ -1,0 +1,77 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="880"
+    height="230"
+    viewBox="0 0 880 230"
+    role="img"
+    aria-labelledby="languages-title languages-description"
+  >
+    <title id="languages-title">TheStreamCode repository languages</title>
+    <desc id="languages-description">Languages ranked by their presence across original, active, public repositories owned by TheStreamCode.</desc>
+    <defs>
+      <linearGradient id="languages-accent" x1="0" x2="1">
+        <stop stop-color="#2563EB" />
+        <stop offset="1" stop-color="#0EA5E9" />
+      </linearGradient>
+    </defs>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .heading { fill: #1F2328; font-size: 22px; font-weight: 700; }
+      .muted { fill: #59636E; font-size: 13px; }
+      .language { fill: #1F2328; font-size: 13px; font-weight: 600; }
+      .count { fill: #59636E; font-size: 12px; }
+    </style>
+    <rect x=".5" y=".5" width="879" height="229" rx="16" fill="#F6F8FA" stroke="#D0D7DE" />
+    <rect x="1" y="1" width="878" height="4" rx="2" fill="url(#languages-accent)" />
+
+    <g aria-hidden="true" transform="translate(32 27)">
+      <rect width="16" height="12" rx="3" fill="#2563EB" />
+      <rect x="19" width="10" height="12" rx="3" fill="#0EA5E9" />
+      <rect y="15" width="10" height="8" rx="3" fill="#0EA5E9" />
+      <rect x="13" y="15" width="16" height="8" rx="3" fill="#2563EB" />
+    </g>
+    <text x="75" y="47" class="heading">Repository languages</text>
+    <text x="75" y="69" class="muted">Presence across 19 original public repositories</text>
+    <text x="840" y="69" text-anchor="end" class="muted">Updated 23 Jul 2026</text>
+
+        <circle cx="45" cy="111" r="5" fill="#f1e05a" />
+        <text x="58" y="115" class="language">JavaScript</text>
+        <text x="58" y="133" class="count">17 repositories</text>
+        <rect x="40" y="142" width="160" height="4" rx="2" fill="#D8DEE4" />
+        <rect x="40" y="142" width="160.00" height="4" rx="2" fill="#f1e05a" />
+        <circle cx="250" cy="111" r="5" fill="#3178c6" />
+        <text x="263" y="115" class="language">TypeScript</text>
+        <text x="263" y="133" class="count">13 repositories</text>
+        <rect x="245" y="142" width="160" height="4" rx="2" fill="#D8DEE4" />
+        <rect x="245" y="142" width="122.35" height="4" rx="2" fill="#3178c6" />
+        <circle cx="455" cy="111" r="5" fill="#663399" />
+        <text x="468" y="115" class="language">CSS</text>
+        <text x="468" y="133" class="count">3 repositories</text>
+        <rect x="450" y="142" width="160" height="4" rx="2" fill="#D8DEE4" />
+        <rect x="450" y="142" width="28.24" height="4" rx="2" fill="#663399" />
+        <circle cx="660" cy="111" r="5" fill="#3572A5" />
+        <text x="673" y="115" class="language">Python</text>
+        <text x="673" y="133" class="count">2 repositories</text>
+        <rect x="655" y="142" width="160" height="4" rx="2" fill="#D8DEE4" />
+        <rect x="655" y="142" width="18.82" height="4" rx="2" fill="#3572A5" />
+        <circle cx="45" cy="172" r="5" fill="#012456" />
+        <text x="58" y="176" class="language">PowerShell</text>
+        <text x="58" y="194" class="count">2 repositories</text>
+        <rect x="40" y="203" width="160" height="4" rx="2" fill="#D8DEE4" />
+        <rect x="40" y="203" width="18.82" height="4" rx="2" fill="#012456" />
+        <circle cx="250" cy="172" r="5" fill="#e34c26" />
+        <text x="263" y="176" class="language">HTML</text>
+        <text x="263" y="194" class="count">2 repositories</text>
+        <rect x="245" y="203" width="160" height="4" rx="2" fill="#D8DEE4" />
+        <rect x="245" y="203" width="18.82" height="4" rx="2" fill="#e34c26" />
+        <circle cx="455" cy="172" r="5" fill="#dea584" />
+        <text x="468" y="176" class="language">Rust</text>
+        <text x="468" y="194" class="count">1 repository</text>
+        <rect x="450" y="203" width="160" height="4" rx="2" fill="#D8DEE4" />
+        <rect x="450" y="203" width="9.41" height="4" rx="2" fill="#dea584" />
+        <circle cx="660" cy="172" r="5" fill="#4F5D95" />
+        <text x="673" y="176" class="language">PHP</text>
+        <text x="673" y="194" class="count">1 repository</text>
+        <rect x="655" y="203" width="160" height="4" rx="2" fill="#D8DEE4" />
+        <rect x="655" y="203" width="9.41" height="4" rx="2" fill="#4F5D95" />
+  </svg>
