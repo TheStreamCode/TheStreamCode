@@ -26,6 +26,7 @@
   <a href="https://mikesoft.it"><img src="https://img.shields.io/badge/Portfolio-Mikesoft-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mikesoft portfolio" /></a>
   <a href="https://www.linkedin.com/in/mikesoft-web-design"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://x.com/mikesoft_it"><img src="https://img.shields.io/badge/X-Follow-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="Follow Mikesoft on X" /></a>
+  <a href="https://www.facebook.com/mikesoft.web"><img src="https://img.shields.io/badge/Facebook-Follow-0D1117?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow Mikesoft on Facebook" /></a>
   <a href="mailto:info@mikesoft.it"><img src="https://img.shields.io/badge/Email-Let's%20talk-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Michael Gasperini" /></a>
   <a href="https://github.com/sponsors/TheStreamCode"><img src="https://img.shields.io/badge/Sponsor-Open%20Source-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor TheStreamCode on GitHub" /></a>
 </p>
@@ -179,6 +180,7 @@ There is never an obligation to sponsor. If my work creates value for you or you
 - **Email:** [info@mikesoft.it](mailto:info@mikesoft.it)
 - **LinkedIn:** [Michael Gasperini](https://www.linkedin.com/in/mikesoft-web-design)
 - **X:** [@mikesoft_it](https://x.com/mikesoft_it)
+- **Facebook:** [Mikesoft](https://www.facebook.com/mikesoft.web)
 - **GitHub Sponsors:** [Support open-source work](https://github.com/sponsors/TheStreamCode)
 - **YouTube:** [Mikesoft](https://www.youtube.com/@mikesoft_webdesign)
 - **Instagram:** [@mikesoft.it](https://www.instagram.com/mikesoft.it)
