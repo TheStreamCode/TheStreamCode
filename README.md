@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://mikesoft.it">
-    <img src="./assets/mikesoft-logo.png" width="132" height="132" alt="Mikesoft logo" />
+    <img src="./assets/mikesoft-logo-animated.gif" width="132" height="132" alt="Animated Mikesoft logo" />
   </a>
 </p>
 
 <h1 align="center">Michael Gasperini</h1>
 
 <p align="center">
-  <strong>Open-source Developer · Web &amp; App Engineer · Founder of <a href="https://mikesoft.it">Mikesoft</a></strong>
+  <strong>Full-Stack Software Engineer · Developer Tools &amp; Applied AI · Founder of <a href="https://mikesoft.it">Mikesoft</a></strong>
 </p>
 
 <p align="center">
