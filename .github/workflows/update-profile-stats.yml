@@ -1,0 +1,51 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    name: Generate profile cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Generate cards from GitHub data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: node scripts/generate-profile-stats.mjs
+
+      - name: Validate generated files
+        run: |
+          git diff --check
+          test -s profile/activity-light.svg
+          test -s profile/activity-dark.svg
+          test -s profile/languages-light.svg
+          test -s profile/languages-dark.svg
+
+      - name: Commit refreshed cards
+        shell: bash
+        run: |
+          if git diff --quiet -- profile; then
+            echo "Profile statistics are already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: refresh profile stats"
+          git push

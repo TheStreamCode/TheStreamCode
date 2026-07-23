@@ -156,23 +156,21 @@ There is never an obligation to sponsor. If my work creates value for you or you
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TheStreamCode&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=60A5FA&amp;icon_color=22C55E&amp;text_color=C9D1D9&amp;custom_title=GitHub%20activity" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-stats-extended.vercel.app/api?username=TheStreamCode&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2563EB&amp;icon_color=22C55E&amp;text_color=1F2328&amp;custom_title=GitHub%20activity" />
-    <img src="https://github-stats-extended.vercel.app/api?username=TheStreamCode&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2563EB&amp;icon_color=22C55E&amp;text_color=1F2328&amp;custom_title=GitHub%20activity" width="495" alt="TheStreamCode GitHub activity statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./profile/activity-light.svg" />
+    <img src="./profile/activity-light.svg" width="820" alt="TheStreamCode GitHub activity statistics" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TheStreamCode&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=60A5FA&amp;text_color=C9D1D9&amp;custom_title=Repository%20languages" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TheStreamCode&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2563EB&amp;text_color=1F2328&amp;custom_title=Repository%20languages" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TheStreamCode&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2563EB&amp;text_color=1F2328&amp;custom_title=Repository%20languages" width="495" alt="Languages used across TheStreamCode repositories" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/languages-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./profile/languages-light.svg" />
+    <img src="./profile/languages-light.svg" width="820" alt="Languages used across TheStreamCode repositories" />
   </picture>
 </p>
 
-<p align="center"><sub>Cards powered by the maintained <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a> project.</sub></p>
-
-<sub>Language cards describe repository code, not skill level. Statistics are loaded from the maintained GitHub Stats Extended service.</sub>
+<p align="center"><sub>Updated daily from GitHub's official API. Language presence describes repository code, not skill level.</sub></p>
 
 ## Contact
 
