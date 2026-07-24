@@ -32,46 +32,46 @@
     </g>
     <text x="75" y="47" class="heading">Repository languages</text>
     <text x="75" y="69" class="muted">Presence across 19 original public repositories</text>
-    <text x="840" y="69" text-anchor="end" class="muted">Updated 23 Jul 2026</text>
+    <text x="840" y="69" text-anchor="end" class="muted">Updated 24 Jul 2026</text>
 
         <circle cx="45" cy="111" r="5" fill="#f1e05a" />
         <text x="58" y="115" class="language">JavaScript</text>
-        <text x="58" y="133" class="count">17 repositories</text>
+        <text x="58" y="133" class="count">18 repositories</text>
         <rect x="40" y="142" width="160" height="4" rx="2" fill="#D8DEE4" />
         <rect x="40" y="142" width="160.00" height="4" rx="2" fill="#f1e05a" />
         <circle cx="250" cy="111" r="5" fill="#3178c6" />
         <text x="263" y="115" class="language">TypeScript</text>
         <text x="263" y="133" class="count">13 repositories</text>
         <rect x="245" y="142" width="160" height="4" rx="2" fill="#D8DEE4" />
-        <rect x="245" y="142" width="122.35" height="4" rx="2" fill="#3178c6" />
+        <rect x="245" y="142" width="115.56" height="4" rx="2" fill="#3178c6" />
         <circle cx="455" cy="111" r="5" fill="#663399" />
         <text x="468" y="115" class="language">CSS</text>
         <text x="468" y="133" class="count">3 repositories</text>
         <rect x="450" y="142" width="160" height="4" rx="2" fill="#D8DEE4" />
-        <rect x="450" y="142" width="28.24" height="4" rx="2" fill="#663399" />
+        <rect x="450" y="142" width="26.67" height="4" rx="2" fill="#663399" />
         <circle cx="660" cy="111" r="5" fill="#3572A5" />
         <text x="673" y="115" class="language">Python</text>
         <text x="673" y="133" class="count">2 repositories</text>
         <rect x="655" y="142" width="160" height="4" rx="2" fill="#D8DEE4" />
-        <rect x="655" y="142" width="18.82" height="4" rx="2" fill="#3572A5" />
+        <rect x="655" y="142" width="17.78" height="4" rx="2" fill="#3572A5" />
         <circle cx="45" cy="172" r="5" fill="#012456" />
         <text x="58" y="176" class="language">PowerShell</text>
         <text x="58" y="194" class="count">2 repositories</text>
         <rect x="40" y="203" width="160" height="4" rx="2" fill="#D8DEE4" />
-        <rect x="40" y="203" width="18.82" height="4" rx="2" fill="#012456" />
+        <rect x="40" y="203" width="17.78" height="4" rx="2" fill="#012456" />
         <circle cx="250" cy="172" r="5" fill="#e34c26" />
         <text x="263" y="176" class="language">HTML</text>
         <text x="263" y="194" class="count">2 repositories</text>
         <rect x="245" y="203" width="160" height="4" rx="2" fill="#D8DEE4" />
-        <rect x="245" y="203" width="18.82" height="4" rx="2" fill="#e34c26" />
+        <rect x="245" y="203" width="17.78" height="4" rx="2" fill="#e34c26" />
         <circle cx="455" cy="172" r="5" fill="#dea584" />
         <text x="468" y="176" class="language">Rust</text>
         <text x="468" y="194" class="count">1 repository</text>
         <rect x="450" y="203" width="160" height="4" rx="2" fill="#D8DEE4" />
-        <rect x="450" y="203" width="9.41" height="4" rx="2" fill="#dea584" />
+        <rect x="450" y="203" width="8.89" height="4" rx="2" fill="#dea584" />
         <circle cx="660" cy="172" r="5" fill="#4F5D95" />
         <text x="673" y="176" class="language">PHP</text>
         <text x="673" y="194" class="count">1 repository</text>
         <rect x="655" y="203" width="160" height="4" rx="2" fill="#D8DEE4" />
-        <rect x="655" y="203" width="9.41" height="4" rx="2" fill="#4F5D95" />
+        <rect x="655" y="203" width="8.89" height="4" rx="2" fill="#4F5D95" />
   </svg>
