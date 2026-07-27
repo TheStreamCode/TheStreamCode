@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Build what matters — product engineering, developer experience, open source, and real ownership" />
-</p>
-
 <h1 align="center">Michael Gasperini</h1>
 
 <p align="center">
