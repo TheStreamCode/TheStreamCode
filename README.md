@@ -9,15 +9,15 @@
 <h1 align="center">Michael Gasperini</h1>
 
 <p align="center">
-  <strong>Independent Software Engineer · Open-Source Builder · Founder of <a href="https://mikesoft.it">Mikesoft</a></strong>
+  <strong>Software Engineer · AI &amp; Product Builder · Founder of <a href="https://mikesoft.it">Mikesoft</a></strong>
 </p>
 
 <p align="center">
-  I turn complex workflows into useful, maintainable software — from digital products for businesses to tools used by developers.
+  I turn ambitious ideas and complex workflows into clear, useful, and maintainable digital products.
 </p>
 
 <p align="center">
-  Italy · Remote worldwide · Italian &amp; English
+  Italy · Remote &amp; async-first · Open to worldwide opportunities
 </p>
 
 <p align="center">
@@ -29,26 +29,28 @@
 
 ---
 
-## One practice, three kinds of work
+## More than a stack
 
-For more than ten years, I have worked across design, development, and delivery. The formats change; the standard does not: understand the real problem, make the experience clear, and leave people in control of what was built.
+For more than ten years, I have worked across product thinking, design, engineering, and delivery. I am not tied to one platform or a narrow role: I learn the domain, choose the right tools, and take responsibility for turning useful ideas into working software.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>01 · Product engineering</strong><br /><br />
-      Websites, e-commerce, web and mobile apps, internal tools, and integrations designed around measurable business needs.
+      <strong>01 · Product thinking</strong><br /><br />
+      Clarifying ideas, finding the real constraint, and shaping practical solutions around users and business needs.
     </td>
     <td width="33%" valign="top">
-      <strong>02 · Developer experience</strong><br /><br />
-      VS Code extensions, CLI applications, MCP servers, AI workflows, and automation that remove repeated friction.
+      <strong>02 · Versatile engineering</strong><br /><br />
+      Building across web, mobile, business software, AI, developer tools, automation, and system integrations.
     </td>
     <td width="33%" valign="top">
-      <strong>03 · Open source</strong><br /><br />
-      Original projects and focused upstream contributions, built with practical documentation, testing, and safe defaults.
+      <strong>03 · End-to-end ownership</strong><br /><br />
+      Carrying work from discovery and UX through implementation, testing, deployment, documentation, and support.
     </td>
   </tr>
 </table>
+
+I do my best work where creativity and engineering meet: new products, difficult integrations, unfamiliar systems, and practical problems that need someone willing to figure them out.
 
 Through [Mikesoft](https://mikesoft.it/en/), I work directly with companies, founders, and professionals from first idea to launch. Through [TheStreamCode](https://github.com/TheStreamCode), I publish the tools, experiments, and engineering work that can be useful beyond a single project.
 
@@ -101,12 +103,15 @@ That upstream work keeps my engineering grounded in real codebases: review disci
 
 ## How I work
 
-- **Problem before platform** — the technology follows the job, not the other way around.
-- **Ownership by default** — clear handover, portable data, and no artificial lock-in.
-- **Safe, explicit behavior** — especially around credentials, local files, permissions, and destructive actions.
-- **From direction to delivery** — strategy, UX, implementation, verification, launch, and documentation belong to the same product story.
+- **Problem before platform** — technology follows the job, not the other way around.
+- **Adaptability over labels** — new domains, unfamiliar tools, and changing constraints are part of the work.
+- **Creative, pragmatic thinking** — explore the possibilities, then turn the strongest one into something people can use.
+- **End-to-end responsibility** — strategy, UX, implementation, verification, launch, documentation, and support belong to the same product story.
+- **Quality that survives handover** — maintainable software, portable data, safe behavior, and clear decisions.
 
-## Toolbox
+## Current toolbox
+
+These are tools I use often, not the limits of what I can build. The stack follows the product, and I keep learning as the work changes.
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -134,9 +139,9 @@ That upstream work keeps my engineering grounded in real codebases: review disci
 
 <p align="center"><sub>Updated daily from GitHub's official API.</sub></p>
 
-## Let's build something useful
+## Open to new opportunities
 
-I'm available for selected freelance projects, product and technical consulting, open-source collaboration, and remote engineering opportunities. If you value clear communication, maintainable software, and real product ownership, [tell me what you are working on](mailto:info@mikesoft.it).
+I'm open to full-time roles, long-term collaborations, freelance projects, product partnerships, consulting, and open-source work — especially remote and async-first opportunities. If you need someone who can understand the problem, learn what is missing, and carry the work from idea to delivery, [tell me what you are working on](mailto:info@mikesoft.it).
 
 <p align="center">
   <a href="https://mikesoft.it/en/"><strong>Client work at Mikesoft</strong></a>
