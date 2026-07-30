@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-  <a href="https://mikesoft.it/en/"><img src="https://img.shields.io/badge/Mikesoft-View%20the%20studio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit the Mikesoft studio website" /></a>
+  <a href="https://mikesoft.it/en/"><img src="https://img.shields.io/badge/Mikesoft-View%20the%20studio-1769E0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit the Mikesoft studio website" /></a>
   <a href="https://github.com/TheStreamCode?tab=repositories"><img src="https://img.shields.io/badge/Open%20source-Explore%20the%20work-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Michael Gasperini's open-source repositories" /></a>
   <a href="https://www.linkedin.com/in/mikesoft-web-design"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Michael Gasperini on LinkedIn" /></a>
-  <a href="mailto:info@mikesoft.it"><img src="https://img.shields.io/badge/Email-Start%20a%20conversation-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Michael Gasperini" /></a>
+  <a href="mailto:info@mikesoft.it"><img src="https://img.shields.io/badge/Email-Start%20a%20conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Michael Gasperini" /></a>
 </p>
 
 ---
