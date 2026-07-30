@@ -63,7 +63,7 @@ Through [Mikesoft](https://mikesoft.it/en/), I work directly with companies, fou
       <h3><a href="https://github.com/TheStreamCode/super-cli">Super CLI ↗</a></h3>
       <p>A cross-platform VS Code extension that brings coding-agent CLIs into one focused sidebar.</p>
       <p><code>TypeScript</code> <code>VS Code</code> <code>Cross-platform</code></p>
-      <p><a href="https://marketplace.visualstudio.com/items?itemName=mikesoft.vscode-super-cli">Marketplace</a></p>
+      <p><a href="https://marketplace.visualstudio.com/items?itemName=mikesoft.vscode-super-cli">Marketplace</a> · Open VSX · MIT</p>
     </td>
     <td width="50%" valign="top">
       <sub>APPLIED AI</sub>
@@ -79,20 +79,24 @@ Through [Mikesoft](https://mikesoft.it/en/), I work directly with companies, fou
       <h3><a href="https://github.com/TheStreamCode/keysoft">Keysoft ↗</a></h3>
       <p>An offline Android password manager with local encryption, biometric unlock, and no vault backend.</p>
       <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
-      <p><a href="https://play.google.com/store/apps/details?id=it.mikesoft.keysoft">Google Play</a></p>
+      <p>Live on <a href="https://play.google.com/store/apps/details?id=it.mikesoft.keysoft">Google Play</a> · AES-256 · zero telemetry</p>
     </td>
     <td width="50%" valign="top">
       <sub>BUSINESS SOFTWARE</sub>
       <h3><a href="https://github.com/TheStreamCode/mikesoft-teamvault">Mikesoft TeamVault ↗</a></h3>
       <p>Private document management for WordPress with protected storage, access control, export, and activity logs.</p>
       <p><code>PHP</code> <code>WordPress</code> <code>Access control</code></p>
-      <p><a href="https://wordpress.org/plugins/mikesoft-teamvault/">WordPress.org</a></p>
+      <p><a href="https://wordpress.org/plugins/mikesoft-teamvault/">WordPress.org</a> · featured plugin · 2,000+ downloads</p>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/TheStreamCode?tab=repositories"><strong>Explore every public project →</strong></a>
+</p>
+
+<p align="center">
+  <sub>24 public repositories · MIT or GPL licensed · no telemetry, no accounts · shipped through the VS Code Marketplace, Open VSX, npm, WordPress.org and Google Play</sub>
 </p>
 
 ## Open source, both ways
