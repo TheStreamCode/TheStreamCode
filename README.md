@@ -101,7 +101,7 @@ Through [Mikesoft](https://mikesoft.it/en/), I work directly with companies, fou
 
 ## Open source, both ways
 
-I build my own tools, and I contribute focused fixes and integrations to projects I use and respect — including [Cline](https://github.com/cline/cline), [Hermes Agent](https://github.com/NousResearch/hermes-agent), [Vendure](https://github.com/vendurehq/vendure), and [models.dev](https://github.com/anomalyco/models.dev).
+I build my own tools, and I contribute focused fixes and integrations to established open-source projects I use and respect — from commerce platforms to AI tooling and developer infrastructure.
 
 That upstream work keeps my engineering grounded in real codebases: review discipline, backward compatibility, cross-platform behavior, security boundaries, and maintainable tests.
 
