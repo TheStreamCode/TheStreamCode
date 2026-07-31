@@ -86,7 +86,7 @@ Through [Mikesoft](https://mikesoft.it/en/), I work directly with companies, fou
       <h3><a href="https://github.com/TheStreamCode/mikesoft-teamvault">Mikesoft TeamVault ↗</a></h3>
       <p>Private document management for WordPress with protected storage, access control, export, and activity logs.</p>
       <p><code>PHP</code> <code>WordPress</code> <code>Access control</code></p>
-      <p><a href="https://wordpress.org/plugins/mikesoft-teamvault/">WordPress.org</a> · featured plugin · 2,000+ downloads</p>
+      <p><a href="https://wordpress.org/plugins/mikesoft-teamvault/">WordPress.org</a> · GPL · 2,400+ downloads</p>
     </td>
   </tr>
 </table>
