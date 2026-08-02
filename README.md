@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mikesoft.it">
+  <a href="https://mikesoft.it/en/">
     <img src="./assets/mikesoft-logo-intro.webp" width="120" height="120" alt="Mikesoft" />
   </a>
 </p>
