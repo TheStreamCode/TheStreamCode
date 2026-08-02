@@ -15,6 +15,7 @@
   <a href="https://github.com/TheStreamCode?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2DA44E?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <a href="https://www.linkedin.com/in/mikesoft-web-design"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:info@mikesoft.it"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/sponsors/TheStreamCode"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
 </p>
 
 ---
