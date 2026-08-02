@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
 
 <p align="center">
-  <strong>Software engineer · Founder of <a href="https://mikesoft.it/en/">Mikesoft</a> · Italy, remote-first</strong>
+  <strong>Full stack developer · Founder of <a href="https://mikesoft.it/en/">Mikesoft</a> · Italy, remote-first</strong>
 </p>
 
 <p align="center">
