@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
 
 <p align="center">
-  <strong>Full stack developer · Founder of <a href="https://mikesoft.it/en/">Mikesoft</a> · Italy, remote-first</strong>
+  <strong>Developer · Digital product builder · Founder of <a href="https://mikesoft.it/en/">Mikesoft</a> · Italy, remote-first</strong>
 </p>
 
 <p align="center">
@@ -20,20 +20,33 @@
 
 ---
 
-I've been writing code for over ten years, mostly for people who needed a product to work
-rather than a stack to admire. Today I build web platforms, mobile apps and developer tools,
-and I run **Mikesoft** — a small studio where the same person you talk to is the one writing
-the code.
+I've been building software and digital products for over ten years.
 
-Most of what you find here started as something I needed myself: VS Code extensions, MCP
-servers, local-first apps, WordPress plugins. It's all MIT or GPL, no telemetry, no accounts.
-If it's useful to you, take it — and open an issue if it breaks.
+My work is broader than what appears here. GitHub is where I share open-source
+projects, experiments and contributions — the part of my work that can be used,
+inspected and improved publicly.
 
-I also send fixes upstream to projects I use and respect. Working in someone else's codebase
-is the fastest way to stay honest about your own.
+I work across the full product journey: understanding the problem, shaping the
+right approach, building the product and keeping it reliable over time. I care
+less about labels and stacks than about creating something clear, useful and
+well made.
 
-**Currently open to** remote roles, freelance projects and collaborations.
-Building something interesting? [Tell me about it](mailto:info@mikesoft.it).
+I also run **Mikesoft**, an independent studio where I work directly with people,
+businesses and teams. The person you speak with is the same person thinking
+through and building the product.
+
+Some work becomes open source when it can be useful beyond its original context.
+Other work is private, client-owned or simply lives outside GitHub. The principle
+behind it remains the same: useful software starts with a real problem.
+
+**Currently open to** remote roles, freelance projects and thoughtful
+collaborations.
+
+Building something interesting? [Let's talk](mailto:info@mikesoft.it).
+
+**Commercial work:** [Mikesoft](https://mikesoft.it/en/) ·
+**Public work:** [Repositories](https://github.com/TheStreamCode?tab=repositories) ·
+**Support the open-source work:** [GitHub Sponsors](https://github.com/sponsors/TheStreamCode)
 
 <p align="center">
   <picture>
