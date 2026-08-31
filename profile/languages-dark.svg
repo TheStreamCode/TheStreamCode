@@ -32,7 +32,7 @@
     </g>
     <text x="75" y="47" class="heading">Repository languages</text>
     <text x="75" y="69" class="muted">Presence across 20 original public repositories</text>
-    <text x="840" y="69" text-anchor="end" class="muted">Updated 24 Aug 2026</text>
+    <text x="840" y="69" text-anchor="end" class="muted">Updated 31 Aug 2026</text>
 
         <circle cx="45" cy="111" r="5" fill="#f1e05a" />
         <text x="58" y="115" class="language">JavaScript</text>
