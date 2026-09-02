@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://mikesoft.it/en/">Website</a> ·
   <a href="https://www.linkedin.com/in/thestreamcode">LinkedIn</a> ·
+  <a href="https://x.com/TheStreamCode">X</a> ·
   <a href="mailto:info@mikesoft.it">Email</a>
 </p>
 
