@@ -1,40 +1,35 @@
-<h1 align="center">Hi, I'm Michael 👋</h1>
+<h1 align="center">Hi, I'm Michael</h1>
 
 <p align="center">
-  <strong>Developer · Founder of <a href="https://mikesoft.it/en/">Mikesoft</a> · Italy · Remote-first</strong>
+  Developer and founder of <a href="https://mikesoft.it/en/">Mikesoft</a>. Based in Italy.
 </p>
 
 <p align="center">
-  <a href="https://mikesoft.it/en/">Website</a> ·
-  <a href="https://www.linkedin.com/in/thestreamcode">LinkedIn</a> ·
-  <a href="https://x.com/TheStreamCode">X</a> ·
+  <a href="https://mikesoft.it/en/">Website</a>,
+  <a href="https://www.linkedin.com/in/thestreamcode">LinkedIn</a>,
+  <a href="https://x.com/TheStreamCode">X</a>,
   <a href="mailto:info@mikesoft.it">Email</a>
 </p>
 
 ---
 
-I'm a developer and the founder of [Mikesoft](https://mikesoft.it/en/), a small
-independent studio. For the past ten years or so I've been building software for
-real people and real problems — first as a craft, then as my own projects.
+I write software and run Mikesoft, my one-person studio. I've been at it for
+about ten years, and I still enjoy it.
 
-I still learn something new every day, and honestly that's the part I enjoy most.
+Everything on this profile is open source, no exceptions. Small tools, editor
+extensions, a few experiments. If it's here, you can use it and read the code.
 
-Everything I publish here is open source: small tools, editor extensions and
-experiments that I hope someone else finds useful. If it's on this profile, you
-can use it, read it and improve it — nothing is closed or paywalled.
+Right now I'm looking for a full-time role, remote or hybrid, ideally on
+something bigger than I could build alone. Running Mikesoft doesn't mean I'm
+unavailable: if the right team shows up, I'm in. Freelance projects and
+collaborations are welcome too. The easiest way to reach me is info@mikesoft.it.
 
-**I'm open to work.** I'd love to join a company where I can grow and contribute
-to something bigger — remote or hybrid — and I'm equally happy to talk about
-freelance projects and collaborations. Running Mikesoft doesn't tie me down: if
-the right team is out there, I'd be glad to bring everything I've learned with
-me. If you think I could be a fit, my inbox is always open: **info@mikesoft.it**.
+If one of these tools saved you time, telling me about it makes my day. Open an
+issue or write me an email, whichever is easier. And if you want to support the
+work directly, the sponsor button is below, though using the tools and reporting
+bugs already helps a lot.
 
-If something here helped you, that genuinely makes my day — feel free to open an
-issue, or just say hi. And if you'd like to support the open-source work, you can
-[become a sponsor](https://github.com/sponsors/TheStreamCode) (no pressure at all:
-using the tools and reporting issues already helps a lot).
-
-Thanks for stopping by.
+Thanks for reading.
 
 <p align="center">
   <picture>
@@ -43,5 +38,3 @@ Thanks for stopping by.
     <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" width="880" alt="Automatically updated GitHub activity for TheStreamCode" />
   </picture>
 </p>
-
-<p align="center"><sub>Useful software starts with a real problem.</sub></p>
