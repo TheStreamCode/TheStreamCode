@@ -14,21 +14,24 @@
 
 I'm a developer and the founder of [Mikesoft](https://mikesoft.it/en/), a small
 independent studio. For the past ten years or so I've been building software for
-real people and real problems — first as a craft, then as a business.
+real people and real problems — first as a craft, then as my own projects.
 
 I still learn something new every day, and honestly that's the part I enjoy most.
 
-What you'll find here is the open-source side of my work: small tools, editor
-extensions and experiments that I hope someone else finds useful. The commercial
-side of what I do lives over at [mikesoft.it](https://mikesoft.it/en/).
+Everything I publish here is open source: small tools, editor extensions and
+experiments that I hope someone else finds useful. If it's on this profile, you
+can use it, read it and improve it — nothing is closed or paywalled.
+
+**I'm open to work.** I'd love to join a company where I can grow and contribute
+to something bigger — remote or hybrid — and I'm equally happy to talk about
+freelance projects and collaborations. Running Mikesoft doesn't tie me down: if
+the right team is out there, I'd be glad to bring everything I've learned with
+me. If you think I could be a fit, my inbox is always open: **info@mikesoft.it**.
 
 If something here helped you, that genuinely makes my day — feel free to open an
 issue, or just say hi. And if you'd like to support the open-source work, you can
 [become a sponsor](https://github.com/sponsors/TheStreamCode) (no pressure at all:
 using the tools and reporting issues already helps a lot).
-
-The best way to reach me is email: **info@mikesoft.it** — I'm always happy to talk
-about feedback, ideas or potential collaborations.
 
 Thanks for stopping by.
 
