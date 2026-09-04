@@ -8,7 +8,7 @@
   <a href="https://mikesoft.it/en/">Website</a>,
   <a href="https://www.linkedin.com/in/thestreamcode">LinkedIn</a>,
   <a href="https://x.com/TheStreamCode">X</a>,
-  <a href="mailto:info@mikesoft.it">Email</a>,
+  <a href="mailto:michael@mikesoft.it">Email</a>,
   <a href="https://github.com/sponsors/TheStreamCode">Sponsors</a>
 </p>
 
@@ -24,7 +24,7 @@ Right now I'm looking for a full-time remote role, ideally on something
 bigger than I could build alone. I work async: written communication, deep
 focus, few meetings. That's how I've always worked best, and it shows in how
 I run my projects. Freelance work and collaborations are welcome too. The
-easiest way to reach me is info@mikesoft.it.
+easiest way to reach me is michael@mikesoft.it.
 
 If one of these tools saved you time, telling me about it makes my day. Open an
 issue or write me an email, whichever is easier. And if you want to support the
