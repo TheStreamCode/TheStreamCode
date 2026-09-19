@@ -50,21 +50,9 @@
 ### 🎯 Focus Areas
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='280' height='90' viewBox='0 0 280 90'%3E%3Crect width='280' height='90' rx='8' fill='%23161B22' stroke='%2330363D'/%3E%3Ctext x='140' y='35' text-anchor='middle' fill='%23F0F6FC' font-family='system-ui, sans-serif' font-size='14' font-weight='600'%3E🤖 AI Coding Agents%3C/text%3E%3Ctext x='140' y='58' text-anchor='middle' fill='%238B949E' font-family='system-ui, sans-serif' font-size='11'%3EClaude · Codex · Copilot · Hermes%3C/text%3E%3C/svg%3E" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='280' height='90' viewBox='0 0 280 90'%3E%3Crect width='280' height='90' rx='8' fill='%23F6F8FA' stroke='%23D0D7DE'/%3E%3Ctext x='140' y='35' text-anchor='middle' fill='%231F2328' font-family='system-ui, sans-serif' font-size='14' font-weight='600'%3E🤖 AI Coding Agents%3C/text%3E%3Ctext x='140' y='58' text-anchor='middle' fill='%23656D76' font-family='system-ui, sans-serif' font-size='11'%3EClaude · Codex · Copilot · Hermes%3C/text%3E%3C/svg%3E" />
-    <img src="https://via.placeholder.com/280x90" width="280" alt="AI Coding Agents" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='280' height='90' viewBox='0 0 280 90'%3E%3Crect width='280' height='90' rx='8' fill='%23161B22' stroke='%2330363D'/%3E%3Ctext x='140' y='35' text-anchor='middle' fill='%23F0F6FC' font-family='system-ui, sans-serif' font-size='14' font-weight='600'%3E🔌 MCP Servers%3C/text%3E%3Ctext x='140' y='58' text-anchor='middle' fill='%238B949E' font-family='system-ui, sans-serif' font-size='11'%3EModel Context Protocol%3C/text%3E%3C/svg%3E" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='280' height='90' viewBox='0 0 280 90'%3E%3Crect width='280' height='90' rx='8' fill='%23F6F8FA' stroke='%23D0D7DE'/%3E%3Ctext x='140' y='35' text-anchor='middle' fill='%231F2328' font-family='system-ui, sans-serif' font-size='14' font-weight='600'%3E🔌 MCP Servers%3C/text%3E%3Ctext x='140' y='58' text-anchor='middle' fill='%23656D76' font-family='system-ui, sans-serif' font-size='11'%3EModel Context Protocol%3C/text%3E%3C/svg%3E" />
-    <img src="https://via.placeholder.com/280x90" width="280" alt="MCP Servers" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='280' height='90' viewBox='0 0 280 90'%3E%3Crect width='280' height='90' rx='8' fill='%23161B22' stroke='%2330363D'/%3E%3Ctext x='140' y='35' text-anchor='middle' fill='%23F0F6FC' font-family='system-ui, sans-serif' font-size='14' font-weight='600'%3E🔒 Privacy-First Tools%3C/text%3E%3Ctext x='140' y='58' text-anchor='middle' fill='%238B949E' font-family='system-ui, sans-serif' font-size='11'%3EOffline · No telemetry · No cloud%3C/text%3E%3C/svg%3E" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='280' height='90' viewBox='0 0 280 90'%3E%3Crect width='280' height='90' rx='8' fill='%23F6F8FA' stroke='%23D0D7DE'/%3E%3Ctext x='140' y='35' text-anchor='middle' fill='%231F2328' font-family='system-ui, sans-serif' font-size='14' font-weight='600'%3E🔒 Privacy-First Tools%3C/text%3E%3Ctext x='140' y='58' text-anchor='middle' fill='%23656D76' font-family='system-ui, sans-serif' font-size='11'%3EOffline · No telemetry · No cloud%3C/text%3E%3C/svg%3E" />
-    <img src="https://via.placeholder.com/280x90" width="280" alt="Privacy-First Tools" />
-  </picture>
+  <img src="https://img.shields.io/badge/🤖_AI_Coding_Agents-Claude,_Codex,_Copilot,_Hermes-8250DF?style=for-the-badge" alt="AI Coding Agents" />
+  <img src="https://img.shields.io/badge/🔌_MCP_Servers-Model_Context_Protocol-1F6FEB?style=for-the-badge" alt="MCP Servers" />
+  <img src="https://img.shields.io/badge/🔒_Privacy_First-Offline,_no_telemetry,_no_cloud-16A34A?style=for-the-badge" alt="Privacy First" />
 </div>
 
 <br />
@@ -72,63 +60,50 @@
 ### 🛠️ Tech Stack & Workflow
 
 <div align="center">
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-  ![MCP](https://img.shields.io/badge/MCP-Protocol-FF6B35?style=flat-square&logo=github&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
 </div>
 
 <br />
 
-### 📌 Featured Projects
+### 📌 Open Source Highlights
 
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=TheStreamCode&repo=super-cli&theme=github_dark&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=TheStreamCode&repo=super-cli&theme=github_light&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheStreamCode&repo=super-cli&theme=github_light&hide_border=true&bg_color=00000000" width="400" alt="super-cli" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=TheStreamCode&repo=chutes-build&theme=github_dark&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=TheStreamCode&repo=chutes-build&theme=github_light&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheStreamCode&repo=chutes-build&theme=github_light&hide_border=true&bg_color=00000000" width="400" alt="chutes-build" />
-  </picture>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/TheStreamCode/super-cli"><strong>⚡ super-cli</strong></a><br />
+      <sub>Launch Claude Code, Codex, Copilot CLI and 30+ coding agents from one secure, native VS Code sidebar and terminal.</sub><br />
+      <sub>🔵 TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/TheStreamCode/chutes-build"><strong>🦀 chutes-build</strong></a><br />
+      <sub>Privacy-first, open-source coding agent for the Chutes ecosystem — no telemetry, no phone-home, no self-update.</sub><br />
+      <sub>🦀 Rust</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/TheStreamCode/keysoft"><strong>🔐 keysoft</strong></a><br />
+      <sub>Private, offline-first password manager for Android. No accounts, ads, tracking, or cloud vault.</sub><br />
+      <sub>🔵 TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/TheStreamCode/discord-management-mcp"><strong>🛡️ discord-management-mcp</strong></a><br />
+      <sub>Safe-by-default Discord management MCP server with JSON backups, restore planning, and guarded mutations.</sub><br />
+      <sub>🔵 TypeScript</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=TheStreamCode&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000" height="160" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&theme=github_light&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStreamCode&layout=compact&theme=github_light&hide_border=true&bg_color=00000000" height="160" alt="Top Languages" />
-  </picture>
-</div>
-
-<br />
 
 <div align="center">
   <picture>
