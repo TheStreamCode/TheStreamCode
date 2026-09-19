@@ -1,23 +1,3 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" />
-    <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" width="720" alt="Michael Gasperini — Developer and founder of Mikesoft" />
-  </picture>
-</div>
-
-<div align="center">
-  <a href="https://mikesoft.it/en/">mikesoft.it</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/thestreamcode">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/TheStreamCode">X</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:michael@mikesoft.it">michael@mikesoft.it</a>
-</div>
-
-<br />
-
 ## 👋 Hi, I'm Michael
 
 I run **Mikesoft**, a small software studio. I've been writing code for about ten years.
