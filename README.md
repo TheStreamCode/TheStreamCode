@@ -1,37 +1,38 @@
-<h1 align="center">Hi, I'm Michael</h1>
+<div align="center">
 
-<p align="center">
-  Developer and founder of <a href="https://mikesoft.it/en/">Mikesoft</a>. Based in Italy.
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" />
+  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" width="880" alt="Michael — Developer and founder of Mikesoft" />
+</picture>
 
-<p align="center">
-  <a href="https://mikesoft.it/en/">Website</a>,
-  <a href="https://www.linkedin.com/in/thestreamcode">LinkedIn</a>,
-  <a href="https://x.com/TheStreamCode">X</a>,
-  <a href="mailto:michael@mikesoft.it">Email</a>,
-  <a href="https://github.com/sponsors/TheStreamCode">Sponsors</a>
-</p>
+<br />
+
+[![Website](https://img.shields.io/badge/Website-mikesoft.it-555555?style=flat-square&logo=googlechrome&logoColor=white)](https://mikesoft.it/en/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thestreamcode-555555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestreamcode)
+[![X](https://img.shields.io/badge/X-TheStreamCode-555555?style=flat-square&logo=x&logoColor=white)](https://x.com/TheStreamCode)
+[![Email](https://img.shields.io/badge/Email-michael@mikesoft.it-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:michael@mikesoft.it)
+[![Sponsors](https://img.shields.io/badge/Sponsors-TheStreamCode-555555?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/TheStreamCode)
+
+</div>
 
 ---
 
-I write software and run Mikesoft, my studio. I've been at it for
-about ten years, and I still enjoy it.
+## About
 
-Everything on this profile is open source, no exceptions. Small tools, editor
-extensions, a few experiments. If it's here, you can use it and read the code.
+I write software and run **Mikesoft**, my studio. I've been doing this for about ten years, and I still enjoy it.
 
-Right now I'm looking for a full-time remote role, ideally on something
-bigger than I could build alone. I work async: written communication, deep
-focus, few meetings. That's how I've always worked best, and it shows in how
-I run my projects. Freelance work and collaborations are welcome too. The
-easiest way to reach me is michael@mikesoft.it.
+Everything I publish here is open source: small tools, editor extensions, and a few experiments. If it's here, you can use it and read the code.
 
-If one of these tools saved you time, telling me about it makes my day. Open an
-issue or write me an email, whichever is easier. And if you want to support the
-work directly, the sponsor button is below, though using the tools and reporting
-bugs already helps a lot.
+## Availability
 
-Thanks for reading.
+I'm currently looking for a **full-time remote role**, ideally on something larger than I could build alone. I work async: written communication, deep focus, few meetings. Freelance work and collaborations are welcome too.
+
+The easiest way to reach me is [michael@mikesoft.it](mailto:michael@mikesoft.it).
+
+## Support
+
+If one of these tools saved you time, I'd like to hear about it. Open an issue or send me an email. If you want to support the work directly, you can use the sponsor button. Using the tools and reporting bugs already helps a lot.
 
 <p align="center">
   <picture>
