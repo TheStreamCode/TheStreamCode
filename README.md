@@ -14,7 +14,7 @@
 
 ---
 
-I write software and run Mikesoft, my one-person studio. I've been at it for
+I write software and run Mikesoft, my studio. I've been at it for
 about ten years, and I still enjoy it.
 
 Everything on this profile is open source, no exceptions. Small tools, editor
