@@ -50,9 +50,11 @@
 ### 🎯 Focus Areas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🤖_AI_Coding_Agents-Claude,_Codex,_Copilot,_Hermes-8250DF?style=for-the-badge" alt="AI Coding Agents" />
-  <img src="https://img.shields.io/badge/🔌_MCP_Servers-Model_Context_Protocol-1F6FEB?style=for-the-badge" alt="MCP Servers" />
-  <img src="https://img.shields.io/badge/🔒_Privacy_First-Offline,_no_telemetry,_no_cloud-16A34A?style=for-the-badge" alt="Privacy First" />
+  <img src="https://img.shields.io/badge/🤖-AI_Coding_Agents-8250DF?style=for-the-badge" alt="AI Coding Agents" />
+  <img src="https://img.shields.io/badge/🔌-MCP_Servers-1F6FEB?style=for-the-badge" alt="MCP Servers" />
+  <img src="https://img.shields.io/badge/🔒-Privacy_First-16A34A?style=for-the-badge" alt="Privacy First" />
+  <br />
+  <sub>Claude · Codex · Copilot · Hermes &nbsp;·&nbsp; Model Context Protocol &nbsp;·&nbsp; offline, no telemetry, no cloud</sub>
 </div>
 
 <br />
