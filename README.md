@@ -9,7 +9,7 @@
 <br />
 
 [![Website](https://img.shields.io/badge/Website-mikesoft.it-555555?style=flat-square&logo=googlechrome&logoColor=white)](https://mikesoft.it/en/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thestreamcode-555555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestreamcode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thestreamcode-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555)](https://www.linkedin.com/in/thestreamcode)
 [![X](https://img.shields.io/badge/X-TheStreamCode-555555?style=flat-square&logo=x&logoColor=white)](https://x.com/TheStreamCode)
 [![Email](https://img.shields.io/badge/Email-michael@mikesoft.it-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:michael@mikesoft.it)
 [![Sponsors](https://img.shields.io/badge/Sponsors-TheStreamCode-555555?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/TheStreamCode)
