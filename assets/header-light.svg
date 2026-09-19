@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="160" viewBox="0 0 880 160">
+  <text x="440" y="75" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#24292f">Michael</text>
+  <text x="440" y="115" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#57606a">Developer · Founder of Mikesoft · Italy</text>
+  <line x1="340" y1="135" x2="540" y2="135" stroke="#d0d7de" stroke-width="2" stroke-linecap="round" />
+</svg>

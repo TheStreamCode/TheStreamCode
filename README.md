@@ -1,42 +1,46 @@
-<h1 align="center">Hi, I'm Michael</h1>
+<div align="center">
 
-<p align="center">
-  Developer and founder of <a href="https://mikesoft.it/en/">Mikesoft</a>. Based in Italy.
-</p>
+# 👋 Hi, I'm Michael
 
-<p align="center">
-  <a href="https://mikesoft.it/en/">Website</a>,
-  <a href="https://www.linkedin.com/in/thestreamcode">LinkedIn</a>,
-  <a href="https://x.com/TheStreamCode">X</a>,
-  <a href="mailto:michael@mikesoft.it">Email</a>,
-  <a href="https://github.com/sponsors/TheStreamCode">Sponsors</a>
-</p>
+<a href="https://mikesoft.it/en/">mikesoft.it</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/thestreamcode">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://x.com/TheStreamCode">X</a>
+&nbsp;·&nbsp;
+<a href="mailto:michael@mikesoft.it">michael@mikesoft.it</a>
 
----
+</div>
 
-I write software and run Mikesoft, my one-person studio. I've been at it for
-about ten years, and I still enjoy it.
+<br />
 
-Everything on this profile is open source, no exceptions. Small tools, editor
-extensions, a few experiments. If it's here, you can use it and read the code.
+I run **Mikesoft**, a small software studio. I've been writing code for about ten years.
 
-Right now I'm looking for a full-time remote role, ideally on something
-bigger than I could build alone. I work async: written communication, deep
-focus, few meetings. That's how I've always worked best, and it shows in how
-I run my projects. Freelance work and collaborations are welcome too. The
-easiest way to reach me is michael@mikesoft.it.
+Lately I build tooling around AI coding agents. Older work is mostly editor extensions and backend systems. Everything here is open source.
 
-If one of these tools saved you time, telling me about it makes my day. Open an
-issue or write me an email, whichever is easier. And if you want to support the
-work directly, the sponsor button is below, though using the tools and reporting
-bugs already helps a lot.
+## Availability
 
-Thanks for reading.
+Looking for a full-time remote role. I work async, so written communication and few meetings. Freelance and collaborations are fine too.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" />
-    <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" width="880" alt="Automatically updated GitHub activity for TheStreamCode" />
-  </picture>
-</p>
+Reach me at <a href="mailto:michael@mikesoft.it">michael@mikesoft.it</a>.
+
+## Selected Work
+
+- **[super-cli](https://github.com/TheStreamCode/super-cli)** launches Claude Code, Codex, Copilot CLI and 30+ coding agents from one VS Code sidebar.
+- **[chutes-build](https://github.com/TheStreamCode/chutes-build)** is a privacy-first coding agent for the Chutes ecosystem, with no telemetry and no self-update.
+- **[keysoft](https://github.com/TheStreamCode/keysoft)** is an offline password manager for Android, with no accounts and no cloud.
+- **[discord-management-mcp](https://github.com/TheStreamCode/discord-management-mcp)** is a Discord MCP server with JSON backups and guarded mutations.
+
+More in the pinned repositories below.
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-dark.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" />
+  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" width="720" alt="GitHub activity for TheStreamCode" />
+</picture>
+
+## Support
+
+If something here was useful, a star or an email helps. To support the work directly, <a href="https://github.com/sponsors/TheStreamCode">sponsor me on GitHub</a>.
