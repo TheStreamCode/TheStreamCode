@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-dark.svg" />
   <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" width="880" alt="Michael — Developer and founder of Mikesoft" />
 </picture>
 
