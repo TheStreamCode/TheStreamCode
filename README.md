@@ -47,8 +47,6 @@ A few things I've built recently — more in the pinned repositories below:
   <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" width="720" alt="GitHub activity for TheStreamCode" />
 </picture>
 
-<sub>Auto-generated from the GitHub API · contributions, commits, pull requests and public repositories.</sub>
-
 <br />
 
 ## Support
