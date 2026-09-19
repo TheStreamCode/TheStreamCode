@@ -18,7 +18,7 @@
 
 <br />
 
-## About
+## 👋 Hi, I'm Michael
 
 I run **Mikesoft**, a small software studio. I've been writing code for about ten years.
 
@@ -26,20 +26,16 @@ Lately I build tooling around AI coding agents and the Model Context Protocol (M
 
 ## Availability
 
-Looking for a full-time remote role. I work async — written communication, few meetings. Freelance and collaborations are fine too.
+Looking for a full-time remote role. I work async, so written communication and few meetings. Freelance and collaborations are fine too.
 
 Reach me at <a href="mailto:michael@mikesoft.it">michael@mikesoft.it</a>.
 
-## Stack
-
-TypeScript · Rust · Python · PHP · Node.js · VS Code · WordPress · Android
-
 ## Selected Work
 
-- **[super-cli](https://github.com/TheStreamCode/super-cli)** — launch Claude Code, Codex, Copilot CLI and 30+ coding agents from one VS Code sidebar.
-- **[chutes-build](https://github.com/TheStreamCode/chutes-build)** — privacy-first coding agent for the Chutes ecosystem. No telemetry, no self-update.
-- **[keysoft](https://github.com/TheStreamCode/keysoft)** — offline password manager for Android. No accounts, no cloud.
-- **[discord-management-mcp](https://github.com/TheStreamCode/discord-management-mcp)** — Discord MCP server with JSON backups and guarded mutations.
+- **[super-cli](https://github.com/TheStreamCode/super-cli)** launches Claude Code, Codex, Copilot CLI and 30+ coding agents from one VS Code sidebar.
+- **[chutes-build](https://github.com/TheStreamCode/chutes-build)** is a privacy-first coding agent for the Chutes ecosystem, with no telemetry and no self-update.
+- **[keysoft](https://github.com/TheStreamCode/keysoft)** is an offline password manager for Android, with no accounts and no cloud.
+- **[discord-management-mcp](https://github.com/TheStreamCode/discord-management-mcp)** is a Discord MCP server with JSON backups and guarded mutations.
 
 More in the pinned repositories below.
 
