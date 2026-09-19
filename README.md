@@ -30,10 +30,6 @@ I'm looking for a **full-time remote role**, ideally on systems larger than one 
 
 The easiest way to reach me is <a href="mailto:michael@mikesoft.it">michael@mikesoft.it</a>.
 
-## Stack
-
-TypeScript · Rust · Python · PHP · Node.js · VS Code · WordPress · Android
-
 ## Selected Work
 
 A few things I've built recently — more in the pinned repositories below:
