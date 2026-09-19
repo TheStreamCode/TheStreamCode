@@ -108,32 +108,6 @@
 
 <br />
 
-<div align="center">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=TheStreamCode&theme=github-dark&hide_border=true&background=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=TheStreamCode&theme=github-light&hide_border=true&background=00000000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://streak-stats.demolab.com?user=TheStreamCode&theme=github-light&hide_border=true&background=00000000" width="880" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" />
-    <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" width="880" alt="Automatically updated GitHub activity for TheStreamCode" />
-  </picture>
-</div>
-
-<br />
-
 ### 💡 Support & Community
 
 If one of my tools saved you time, I'd love to hear about it. Open an issue, send me an email, or just drop a star on the repository. 
