@@ -1,15 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" />
   <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" width="880" alt="Michael — Developer and founder of Mikesoft" />
 </picture>
 
 <br />
 
 [![Website](https://img.shields.io/badge/Website-mikesoft.it-1F6FEB?style=flat-square&logo=globe&logoColor=white)](https://mikesoft.it/en/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thestreamcode-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestreamcode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thestreamcode-0A66C2?style=flat-square&logo=linkedinsquare&logoColor=white)](https://www.linkedin.com/in/thestreamcode)
 [![X](https://img.shields.io/badge/X-TheStreamCode-24292F?style=flat-square&logo=x&logoColor=white)](https://x.com/TheStreamCode)
 [![Email](https://img.shields.io/badge/Email-michael@mikesoft.it-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:michael@mikesoft.it)
 [![Sponsors](https://img.shields.io/badge/Sponsors-TheStreamCode-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/TheStreamCode)
