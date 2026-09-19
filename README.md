@@ -64,8 +64,6 @@
 
 <br />
 
-### 📌 Featured Projects
-
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=TheStreamCode&repo=YOUR_REPO_1&theme=github_dark&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
