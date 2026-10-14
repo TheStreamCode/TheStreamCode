@@ -23,7 +23,7 @@ Lately I build tooling around AI coding agents. Older work is mostly editor exte
 - **[super-cli](https://github.com/TheStreamCode/super-cli)** launches Claude Code, Codex, Copilot CLI and 30+ coding agents from one VS Code sidebar.
 - **[chutes-build](https://github.com/TheStreamCode/chutes-build)** is a privacy-first coding agent for the Chutes ecosystem, with no telemetry and no self-update.
 - **[keysoft](https://github.com/TheStreamCode/keysoft)** is an offline password manager for Android, with no accounts and no cloud.
-- **[discord-management-mcp](https://github.com/TheStreamCode/discord-management-mcp)** is a Discord MCP server with JSON backups and guarded mutations.
+- **[mikesoft-teamvault](https://github.com/TheStreamCode/mikesoft-teamvault)** is private document management for WordPress with protected storage, granular permissions, previews, quotas and audit logs.
 
 More in the pinned repositories below.
 
