@@ -27,14 +27,6 @@ Lately I build tooling around AI coding agents. Older work is mostly editor exte
 
 More in the pinned repositories below.
 
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-dark.svg" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" />
-  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" width="720" alt="GitHub activity for TheStreamCode" />
-</picture>
-
 ## Contact
 
 Currently open to select remote roles and collaborations: <a href="mailto:michael@mikesoft.it">michael@mikesoft.it</a>.
