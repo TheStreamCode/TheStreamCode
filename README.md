@@ -18,12 +18,6 @@ I run **Mikesoft**, a small software studio. I've been writing code for about te
 
 Lately I build tooling around AI coding agents. Older work is mostly editor extensions and backend systems. Everything here is open source.
 
-## Availability
-
-Looking for a full-time remote role. I work async, so written communication and few meetings. Freelance and collaborations are fine too.
-
-Reach me at <a href="mailto:michael@mikesoft.it">michael@mikesoft.it</a>.
-
 ## Selected Work
 
 - **[super-cli](https://github.com/TheStreamCode/super-cli)** launches Claude Code, Codex, Copilot CLI and 30+ coding agents from one VS Code sidebar.
@@ -41,6 +35,8 @@ More in the pinned repositories below.
   <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" width="720" alt="GitHub activity for TheStreamCode" />
 </picture>
 
-## Support
+## Contact
 
-If something here was useful, a star or an email helps. To support the work directly, <a href="https://github.com/sponsors/TheStreamCode">sponsor me on GitHub</a>.
+Currently open to select remote roles and collaborations: <a href="mailto:michael@mikesoft.it">michael@mikesoft.it</a>.
+
+If my work was useful, consider <a href="https://github.com/sponsors/TheStreamCode">sponsoring me on GitHub</a>.
