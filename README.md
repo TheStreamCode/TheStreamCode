@@ -1,34 +1,42 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-dark.svg">
+  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" alt="Michael Gasperini, developer and founder of Mikesoft" width="880">
+</picture>
 
-# 👋 Hi, I'm Michael
+# Michael Gasperini
 
-<a href="https://mikesoft.it/en/">mikesoft.it</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/thestreamcode">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://x.com/TheStreamCode">X</a>
-&nbsp;·&nbsp;
-<a href="mailto:michael@mikesoft.it">michael@mikesoft.it</a>
+Founder of [Mikesoft](https://mikesoft.it), an independent software studio. I build open-source
+tooling for AI coding agents, editor extensions and backend systems.
 
-</div>
+## Selected work
 
-<br />
+| Project | What it does |
+| --- | --- |
+| [super-cli](https://github.com/TheStreamCode/super-cli) | One VS Code sidebar and terminal for more than 30 coding agents |
+| [chutes-build](https://github.com/TheStreamCode/chutes-build) | Privacy-first coding agent for the Chutes ecosystem, with no telemetry and no self-update |
+| [chutes-media-mcp](https://github.com/TheStreamCode/chutes-media-mcp) | MCP server and CLI for image, video, music and speech generation |
+| [mikesoft-teamvault](https://github.com/TheStreamCode/mikesoft-teamvault) | Private document management for WordPress with granular permissions and audit logs |
+| [opencode-muse-auth](https://github.com/TheStreamCode/opencode-muse-auth) | Muse Code authentication and model access for opencode |
+| [keysoft](https://github.com/TheStreamCode/keysoft) | Offline-first password manager for Android, with no accounts and no cloud |
 
-I run **Mikesoft**, a small software studio. I've been writing code for about ten years.
+## GitHub activity
 
-Lately I build tooling around AI coding agents. Older work is mostly editor extensions and backend systems. Everything here is open source.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-dark.svg">
+  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" alt="GitHub activity: contributions, commits, pull requests and original public repositories" width="880">
+</picture>
 
-## Selected Work
-
-- **[super-cli](https://github.com/TheStreamCode/super-cli)** launches Claude Code, Codex, Copilot CLI and 30+ coding agents from one VS Code sidebar.
-- **[chutes-build](https://github.com/TheStreamCode/chutes-build)** is a privacy-first coding agent for the Chutes ecosystem, with no telemetry and no self-update.
-- **[keysoft](https://github.com/TheStreamCode/keysoft)** is an offline password manager for Android, with no accounts and no cloud.
-- **[mikesoft-teamvault](https://github.com/TheStreamCode/mikesoft-teamvault)** is private document management for WordPress with protected storage, granular permissions, previews, quotas and audit logs.
-
-More in the pinned repositories below.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-light.svg" alt="Repository languages ranked by presence across original public repositories" width="880">
+</picture>
 
 ## Contact
 
-Currently open to select remote roles and collaborations: <a href="mailto:michael@mikesoft.it">michael@mikesoft.it</a>.
+- Website: [mikesoft.it](https://mikesoft.it)
+- Email: [michael@mikesoft.it](mailto:michael@mikesoft.it)
+- LinkedIn: [linkedin.com/in/thestreamcode](https://www.linkedin.com/in/thestreamcode)
+- X: [@TheStreamCode](https://x.com/TheStreamCode)
 
-If my work was useful, consider <a href="https://github.com/sponsors/TheStreamCode">sponsoring me on GitHub</a>.
+Available for a limited number of remote engagements and collaborations. If this work is useful to
+you, you can [sponsor its maintenance](https://github.com/sponsors/TheStreamCode).
