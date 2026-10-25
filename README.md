@@ -8,6 +8,15 @@
 Founder of [Mikesoft](https://mikesoft.it), an independent software studio. I build open-source
 tooling for AI coding agents, editor extensions and backend systems.
 
+## What I work on
+
+- **AI coding agents and model providers**: CLI launchers, MCP servers and provider plugins for
+  tools such as Claude Code, Codex, GitHub Copilot, opencode and OpenClaw.
+- **Editor extensions**: VS Code tooling that puts agents and terminals one click away.
+- **Product engineering**: WordPress and Android projects, built with privacy-first and
+  offline-first defaults.
+- **Web work**: Astro and Next.js sites, technical SEO and automation.
+
 ## Selected work
 
 | Project | What it does |
@@ -19,17 +28,19 @@ tooling for AI coding agents, editor extensions and backend systems.
 | [opencode-muse-auth](https://github.com/TheStreamCode/opencode-muse-auth) | Muse Code authentication and model access for opencode |
 | [keysoft](https://github.com/TheStreamCode/keysoft) | Offline-first password manager for Android, with no accounts and no cloud |
 
-## GitHub activity
+## Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-dark.svg">
-  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" alt="GitHub activity: contributions, commits, pull requests and original public repositories" width="880">
-</picture>
+TypeScript and Node.js, Rust for CLI tooling, PHP and WordPress, React Native, Astro and Next.js.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-light.svg" alt="Repository languages ranked by presence across original public repositories" width="880">
-</picture>
+## Support
+
+[![Sponsor](https://img.shields.io/github/sponsors/TheStreamCode?label=Sponsor&logo=GitHub)](https://github.com/sponsors/TheStreamCode)
+
+Everything I publish here is open source. Sponsorship pays for the unglamorous part: issue triage,
+compatibility updates, documentation and steady releases. Monthly tiers start at 5 USD, and there is
+a one-time option if a project saved you some time.
+
+Not in a position to sponsor? A star, a clear issue or a documentation fix helps just as much.
 
 ## Contact
 
@@ -37,6 +48,6 @@ tooling for AI coding agents, editor extensions and backend systems.
 - Email: [michael@mikesoft.it](mailto:michael@mikesoft.it)
 - LinkedIn: [linkedin.com/in/thestreamcode](https://www.linkedin.com/in/thestreamcode)
 - X: [@TheStreamCode](https://x.com/TheStreamCode)
+- All repositories: [github.com/TheStreamCode?tab=repositories](https://github.com/TheStreamCode?tab=repositories)
 
-Available for a limited number of remote engagements and collaborations. If this work is useful to
-you, you can [sponsor its maintenance](https://github.com/sponsors/TheStreamCode).
+Available for a limited number of remote engagements and collaborations.
