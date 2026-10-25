@@ -1,21 +1,26 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" alt="Michael Gasperini, developer and founder of Mikesoft" width="880">
+  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/main/assets/header-light.svg" alt="Michael Gasperini, independent developer" width="880">
 </picture>
 
 # Michael Gasperini
 
-Founder of [Mikesoft](https://mikesoft.it), an independent software studio. I build open-source
-tooling for AI coding agents, editor extensions and backend systems.
+Independent developer. I build open-source tooling for AI coding agents, editor extensions and
+backend systems. I also run [Mikesoft](https://mikesoft.it), the studio where I build websites and
+web applications for clients in Italy.
 
-## What I work on
+## Open source
 
 - **AI coding agents and model providers**: CLI launchers, MCP servers and provider plugins for
   tools such as Claude Code, Codex, GitHub Copilot, opencode and OpenClaw.
 - **Editor extensions**: VS Code tooling that puts agents and terminals one click away.
 - **Product engineering**: WordPress and Android projects, built with privacy-first and
   offline-first defaults.
-- **Web work**: Astro and Next.js sites, technical SEO and automation.
+
+## Client work
+
+Websites, web applications, technical SEO and automation for Italian businesses, through
+[Mikesoft](https://mikesoft.it).
 
 ## Selected work
 
@@ -44,10 +49,10 @@ Not in a position to sponsor? A star, a clear issue or a documentation fix helps
 
 ## Contact
 
-- Website: [mikesoft.it](https://mikesoft.it)
 - Email: [michael@mikesoft.it](mailto:michael@mikesoft.it)
 - LinkedIn: [linkedin.com/in/thestreamcode](https://www.linkedin.com/in/thestreamcode)
 - X: [@TheStreamCode](https://x.com/TheStreamCode)
+- Studio: [mikesoft.it](https://mikesoft.it)
 - All repositories: [github.com/TheStreamCode?tab=repositories](https://github.com/TheStreamCode?tab=repositories)
 
 Available for a limited number of remote engagements and collaborations.
