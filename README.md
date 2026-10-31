@@ -37,6 +37,18 @@ Websites, web applications, technical SEO and automation for Italian businesses,
 
 TypeScript and Node.js, Rust for CLI tooling, PHP and WordPress, React Native, Astro and Next.js.
 
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-dark.svg">
+  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-light.svg" alt="Recent contribution activity of TheStreamCode" width="880">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-light.svg" alt="Most used languages of TheStreamCode" width="880">
+</picture>
+
 ## Support
 
 [![Sponsor](https://img.shields.io/github/sponsors/TheStreamCode?label=Sponsor&logo=GitHub)](https://github.com/sponsors/TheStreamCode)
@@ -46,6 +58,12 @@ compatibility updates, documentation and steady releases. Monthly tiers start at
 a one-time option if a project saved you some time.
 
 Not in a position to sponsor? A star, a clear issue or a documentation fix helps just as much.
+
+## Sponsors
+
+Monthly sponsors at the 35 USD tier and above are thanked by name here. [Become a sponsor](https://github.com/sponsors/TheStreamCode).
+
+No sponsors at this tier yet.
 
 ## Contact
 
