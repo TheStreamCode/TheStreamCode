@@ -59,12 +59,6 @@ a one-time option if a project saved you some time.
 
 Not in a position to sponsor? A star, a clear issue or a documentation fix helps just as much.
 
-## Sponsors
-
-Monthly sponsors at the 35 USD tier and above are thanked by name here. [Become a sponsor](https://github.com/sponsors/TheStreamCode).
-
-No sponsors at this tier yet.
-
 ## Contact
 
 - Email: [michael@mikesoft.it](mailto:michael@mikesoft.it)
