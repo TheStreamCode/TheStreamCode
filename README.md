@@ -74,3 +74,7 @@ No sponsors at this tier yet.
 - All repositories: [github.com/TheStreamCode?tab=repositories](https://github.com/TheStreamCode?tab=repositories)
 
 Available for a limited number of remote engagements and collaborations.
+
+---
+
+Maintained by [Michael Gasperini (Mikesoft)](https://mikesoft.it).

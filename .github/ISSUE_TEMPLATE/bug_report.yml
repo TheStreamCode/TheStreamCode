@@ -1,0 +1,27 @@
+name: Profile issue
+description: Report a broken link, rendering problem or outdated information on the profile page.
+title: "[Profile]: "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is wrong, and where on the page?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and theme
+      description: Browser, version and whether the page is in light or dark mode.
+      placeholder: Chrome 141, dark mode
+    validations:
+      required: false
