@@ -68,3 +68,7 @@ Not in a position to sponsor? A star, a clear issue or a documentation fix helps
 - All repositories: [github.com/TheStreamCode?tab=repositories](https://github.com/TheStreamCode?tab=repositories)
 
 Available for a limited number of remote engagements and collaborations.
+
+---
+
+Maintained by [Michael Gasperini (Mikesoft)](https://mikesoft.it).
