@@ -58,7 +58,7 @@ Refreshed every Monday.
 
 ## Support
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/TheStreamCode)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/TheStreamCode)
 
 Everything I publish here is open source. Sponsorship pays for the unglamorous part: issue triage,
 compatibility updates, documentation and steady releases. Monthly tiers start at 5 USD, and there is
