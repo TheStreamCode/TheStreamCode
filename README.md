@@ -6,8 +6,13 @@
 # Michael Gasperini
 
 Independent developer. I build open-source tooling for AI coding agents, editor extensions and
-backend systems. I also run [Mikesoft](https://mikesoft.it), the studio where I build websites and
-web applications for clients in Italy.
+local-first applications. I also run [Mikesoft](https://mikesoft.it), the studio where I build
+websites and web applications for clients in Italy.
+
+I maintain nine VS Code extensions, with more than 57,000 downloads on Open VSX and 5,800
+installs on the Visual Studio Marketplace, and I founded
+[Vibe Coding Italia](https://www.vibecodingitalia.org), an Italian AI-coding community with
+2,000+ members.
 
 ## Open source
 
@@ -24,20 +29,22 @@ Websites, web applications, technical SEO and automation for Italian businesses,
 
 ## Selected work
 
-| Project | What it does |
-| --- | --- |
-| [super-cli](https://github.com/TheStreamCode/super-cli) | One VS Code sidebar and terminal for more than 30 coding agents |
-| [chutes-build](https://github.com/TheStreamCode/chutes-build) | Privacy-first coding agent for the Chutes ecosystem, with no telemetry and no self-update |
-| [chutes-media-mcp](https://github.com/TheStreamCode/chutes-media-mcp) | MCP server and CLI for image, video, music and speech generation |
-| [mikesoft-teamvault](https://github.com/TheStreamCode/mikesoft-teamvault) | Private document management for WordPress with granular permissions and audit logs |
-| [opencode-muse-auth](https://github.com/TheStreamCode/opencode-muse-auth) | Muse Code authentication and model access for opencode |
-| [keysoft](https://github.com/TheStreamCode/keysoft) | Offline-first password manager for Android, with no accounts and no cloud |
+| Project | What it does | Reach |
+| --- | --- | --- |
+| [super-cli](https://github.com/TheStreamCode/super-cli) | One VS Code sidebar and terminal for more than 30 coding agents | 10,500+ [Open VSX](https://open-vsx.org/extension/mikesoft/vscode-super-cli) downloads |
+| [chutes-build](https://github.com/TheStreamCode/chutes-build) | Privacy-first coding agent for the Chutes ecosystem, with no telemetry and no self-update | 3,000+ npm downloads per month |
+| [chutes-media-mcp](https://github.com/TheStreamCode/chutes-media-mcp) | MCP server and CLI for image, video, music and speech generation | 400+ npm downloads per month |
+| [mikesoft-teamvault](https://github.com/TheStreamCode/mikesoft-teamvault) | Private document management for WordPress with granular permissions and audit logs | 40+ active installs on [WordPress.org](https://wordpress.org/plugins/mikesoft-teamvault/) |
+| [opencode-muse-auth](https://github.com/TheStreamCode/opencode-muse-auth) | Muse Code authentication and model access for opencode | 1,500+ npm downloads per month |
+| [keysoft](https://github.com/TheStreamCode/keysoft) | Offline-first password manager for Android, with no accounts and no cloud | On [Google Play](https://play.google.com/store/apps/details?id=it.mikesoft.keysoft) |
 
 ## Stack
 
 TypeScript and Node.js, Rust for CLI tooling, PHP and WordPress, React Native, Astro and Next.js.
 
 ## Activity
+
+Refreshed every Monday.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/activity-dark.svg">
@@ -46,7 +53,7 @@ TypeScript and Node.js, Rust for CLI tooling, PHP and WordPress, React Native, A
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-light.svg" alt="Most used languages of TheStreamCode" width="880">
+  <img src="https://raw.githubusercontent.com/TheStreamCode/TheStreamCode/profile-stats/profile/languages-light.svg" alt="Repository languages across the public repositories of TheStreamCode" width="880">
 </picture>
 
 ## Support
@@ -67,7 +74,7 @@ Not in a position to sponsor? A star, a clear issue or a documentation fix helps
 - Studio: [mikesoft.it](https://mikesoft.it)
 - All repositories: [github.com/TheStreamCode?tab=repositories](https://github.com/TheStreamCode?tab=repositories)
 
-Available for a limited number of remote engagements and collaborations.
+Available for full-time remote roles, contract work and consulting.
 
 ---
 
