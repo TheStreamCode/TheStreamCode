@@ -55,18 +55,6 @@ const profileData = await graphQl(
           orderBy: { field: UPDATED_AT, direction: DESC }
         ) {
           totalCount
-          nodes {
-            isArchived
-            languages(first: 20, orderBy: { field: SIZE, direction: DESC }) {
-              edges {
-                size
-                node {
-                  color
-                  name
-                }
-              }
-            }
-          }
         }
       }
     }
@@ -128,38 +116,6 @@ const activity = contributionCollections.reduce(
     repositories: profileData.user.repositories.totalCount,
   },
 );
-
-const languageTotals = new Map();
-
-for (const repository of profileData.user.repositories.nodes) {
-  if (repository.isArchived) {
-    continue;
-  }
-
-  for (const edge of repository.languages.edges) {
-    const existing = languageTotals.get(edge.node.name) || {
-      bytes: 0,
-      color: edge.node.color || "#8B949E",
-      repositories: 0,
-    };
-    existing.bytes += edge.size;
-    existing.repositories += 1;
-    languageTotals.set(edge.node.name, existing);
-  }
-}
-
-const sortedLanguages = [...languageTotals.entries()]
-  .map(([name, data]) => ({ name, ...data }))
-  .sort(
-    (left, right) =>
-      right.repositories - left.repositories || right.bytes - left.bytes,
-  );
-
-if (sortedLanguages.length === 0) {
-  throw new Error("No public repository language data was returned by GitHub.");
-}
-
-const displayedLanguages = sortedLanguages.slice(0, 8);
 
 const firstContributionYear = Math.min(...contributionYears);
 const generatedDate = new Intl.DateTimeFormat("en-GB", {
@@ -281,63 +237,6 @@ function activitySvg(themeName) {
 `;
 }
 
-function languagesSvg(themeName) {
-  const theme = themes[themeName];
-  const maxRepositoryCount = displayedLanguages[0].repositories;
-
-  const legend = displayedLanguages
-    .map((language, index) => {
-      const column = index % 4;
-      const row = Math.floor(index / 4);
-      const x = 40 + column * 205;
-      const y = 115 + row * 61;
-      const usageWidth = (language.repositories / maxRepositoryCount) * 160;
-      const repositoryLabel =
-        language.repositories === 1 ? "repository" : "repositories";
-
-      return `
-        <circle cx="${x + 5}" cy="${y - 4}" r="5" fill="${language.color}" />
-        <text x="${x + 18}" y="${y}" class="language">${escapeXml(language.name)}</text>
-        <text x="${x + 18}" y="${y + 18}" class="count">${language.repositories} ${repositoryLabel}</text>
-        <rect x="${x}" y="${y + 27}" width="160" height="4" rx="2" fill="${theme.divider}" />
-        <rect x="${x}" y="${y + 27}" width="${usageWidth.toFixed(2)}" height="4" rx="2" fill="${language.color}" />`;
-    })
-    .join("");
-
-  return `<svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="880"
-    height="230"
-    viewBox="0 0 880 230"
-    role="img"
-    aria-labelledby="languages-title languages-description"
-  >
-    <title id="languages-title">${escapeXml(username)} repository languages</title>
-    <desc id="languages-description">Languages ranked by their presence across original, active, public repositories owned by ${escapeXml(username)}.</desc>
-    <defs>
-      <linearGradient id="languages-accent" x1="0" x2="1">
-        <stop stop-color="${theme.primary}" />
-        <stop offset="1" stop-color="${theme.secondary}" />
-      </linearGradient>
-    </defs>
-    <style>
-      text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-      .heading { fill: ${theme.heading}; font-size: 22px; font-weight: 700; }
-      .muted { fill: ${theme.muted}; font-size: 13px; }
-      .language { fill: ${theme.heading}; font-size: 13px; font-weight: 600; }
-      .count { fill: ${theme.muted}; font-size: 12px; }
-    </style>
-    <rect x=".5" y=".5" width="879" height="229" rx="16" fill="${theme.background}" stroke="${theme.border}" />
-    <rect x="1" y="1" width="878" height="4" rx="2" fill="url(#languages-accent)" />
-    ${brandMark(theme)}
-    <text x="75" y="47" class="heading">Repository languages</text>
-    <text x="75" y="69" class="muted">Presence across ${activity.repositories} original public repositories</text>
-    <text x="840" y="69" text-anchor="end" class="muted">Updated ${escapeXml(generatedDate)}</text>
-    ${legend}
-  </svg>
-`;
-}
-
 await mkdir(outputDirectory, { recursive: true });
 
 await Promise.all([
@@ -348,14 +247,6 @@ await Promise.all([
   writeFile(
     resolve(outputDirectory, "activity-dark.svg"),
     cleanSvg(activitySvg("dark")),
-  ),
-  writeFile(
-    resolve(outputDirectory, "languages-light.svg"),
-    cleanSvg(languagesSvg("light")),
-  ),
-  writeFile(
-    resolve(outputDirectory, "languages-dark.svg"),
-    cleanSvg(languagesSvg("dark")),
   ),
 ]);
 
