@@ -17,6 +17,8 @@ This repository renders the GitHub profile page for [TheStreamCode](https://gith
   emoji, no exclamation marks, no promotional superlatives.
 - Keep the page accurate: no repository, product or metric that is not live.
 - Keep the statistics block generated. Do not hand-edit numbers that the script produces.
+- The badge strip under the intro is maintained by hand. Round its numbers down so they stay true
+  between refreshes, and update it when a count moves enough to matter.
 - Keep links absolute and stable.
 
 ## Validation
