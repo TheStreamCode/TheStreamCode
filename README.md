@@ -23,7 +23,7 @@ websites and web applications for clients in Italy.
   with no accounts and no cloud. On
   [Google Play](https://play.google.com/store/apps/details?id=it.mikesoft.keysoft).
 - **[mikesoft-teamvault](https://github.com/TheStreamCode/mikesoft-teamvault)**: private document
-  management for WordPress with granular permissions and audit logs. 40+ active installs on
+  management for WordPress with granular permissions and audit logs. 3,000+ downloads on
   [WordPress.org](https://wordpress.org/plugins/mikesoft-teamvault/).
 - **[opencode-muse-auth](https://github.com/TheStreamCode/opencode-muse-auth)**: Muse Code authentication
   and model access for opencode. 1,500+ npm downloads per month.
